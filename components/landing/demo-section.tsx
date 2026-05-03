@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   Area,
@@ -53,80 +53,97 @@ function eapEstimate(responses: number[], params: { a: number; b: number; c: num
   return { theta, se };
 }
 
-const QUESTIONS = [
-  { b: -1.11, a: 1.67, c: 0.20, correctIdx: 3,
-    question: "Maria foi a uma papelaria e encontrou pacotes de canetas contendo 5 unidades cada. Ela decidiu levar 3 pacotes. Quantas canetas Maria comprou?",
-    alternatives: ["2", "5", "8", "15"] },
-  { b: -0.79, a: 1.97, c: 0.20, correctIdx: 2,
-    question: "Paula compra 25 bananas, 12 mangas e 2 mamões para produzir salada de frutas. Quantas frutas, ao todo, Paula compra?",
-    alternatives: ["14", "37", "39", "57"] },
-  { b: -0.39, a: 2.36, c: 0.20, correctIdx: 3,
-    question: "Jonas tinha figurinhas e deu 12 para Pedro, ficando com 64. Quantas figurinhas Jonas tinha?",
-    alternatives: ["12", "52", "64", "76"] },
-  { b: -0.13, a: 1.43, c: 0.20, correctIdx: 3,
-    question: "Camila treina na academia 1h30 por dia. Se o treino começar às 9h15, terminará às:",
-    alternatives: ["9h45", "10h15", "10h30", "10h45"] },
-  { b: 0.09, a: 1.91, c: 0.19, correctIdx: 1,
-    question: "Fabiana enrola 50 brigadeiros em 20 minutos. Mantendo esse ritmo, quantos minutos levará para enrolar 300 brigadeiros?",
-    alternatives: ["70", "120", "370", "750"] },
-  { b: 0.56, a: 1.01, c: 0.20, correctIdx: 1,
-    question: "Um navio partiu do ponto A(1,3) ao ponto B(5,3) em linha reta, onde cada unidade equivale a 100 km. Qual a distância percorrida?",
-    alternatives: ["300 km", "400 km", "1.200 km", "1.600 km"] },
-  { b: 1.05, a: 2.48, c: 0.15, correctIdx: 0,
-    question: "Fabrício reserva a quarta parte de seu salário na poupança. Se ganha R$ 4.800,00, quanto deposita?",
-    alternatives: ["R$ 1.200,00", "R$ 1.600,00", "R$ 2.400,00", "R$ 4.796,00"] },
-  { b: 1.50, a: 0.94, c: 0.20, correctIdx: 2,
-    question: "João quer saber se um endereço fica do lado direito ou esquerdo da rua. Para isso, deve dividir o número por qual valor e verificar o resto?",
-    alternatives: ["Zero", "Um", "Dois", "Três"] },
-];
+interface DemoAlternativa {
+  id: string;
+  conteudo: string;
+  ordem: number;
+  correta: boolean;
+}
+
+interface DemoTextoBase {
+  id: string;
+  titulo?: string | null;
+  conteudo?: string | null;
+  referencia?: string | null;
+}
+
+interface DemoQuestion {
+  id: string;
+  codigo: string;
+  conteudo: string;
+  a: number;
+  b: number;
+  c: number;
+  textosBase: DemoTextoBase[];
+  alternativas: DemoAlternativa[];
+}
 
 interface Step { step: number; theta: number; se: number; correct: boolean; qIdx: number; }
 
 const EASE = [0.32, 0.72, 0, 1] as const;
-const TRUE_THETA = 0.8;
+const MAX_STEPS = 8;
 const chartConfig = { saeb: { label: "Proficiência SAEB", color: "var(--color-chart-1)" } } satisfies ChartConfig;
 
 type Phase = "idle" | "question" | "calculating" | "result" | "done";
 
 export function DemoSection() {
+  const [questions, setQuestions] = useState<DemoQuestion[]>([]);
+  const [loadingQuestions, setLoadingQuestions] = useState(true);
   const [phase, setPhase] = useState<Phase>("idle");
   const [history, setHistory] = useState<Step[]>([]);
   const [usedQs, setUsedQs] = useState<Set<number>>(new Set());
   const [theta, setTheta] = useState(0);
   const [se, setSe] = useState<number | null>(null);
   const [curIdx, setCurIdx] = useState<number | null>(null);
-  const [selected, setSelected] = useState<number | null>(null);
+  const [selected, setSelected] = useState<string | null>(null);
   const [lastCorrect, setLastCorrect] = useState<boolean | null>(null);
 
-  const selectNext = useCallback((t: number, used: Set<number>) => {
-    let best = -1, bestI = -Infinity;
-    QUESTIONS.forEach((q, i) => {
-      if (used.has(i)) return;
-      const inf = infoItem(t, q.a, q.b, q.c);
-      if (inf > bestI) { bestI = inf; best = i; }
-    });
-    return best;
+  useEffect(() => {
+    fetch("/demo-questions.json")
+      .then((r) => r.json())
+      .then((data: DemoQuestion[]) => {
+        setQuestions(data);
+        setLoadingQuestions(false);
+      })
+      .catch(() => setLoadingQuestions(false));
   }, []);
 
+  const selectNext = useCallback(
+    (t: number, used: Set<number>, pool: DemoQuestion[]) => {
+      let best = -1, bestI = -Infinity;
+      pool.forEach((q, i) => {
+        if (used.has(i)) return;
+        const inf = infoItem(t, q.a, q.b, q.c);
+        if (inf > bestI) { bestI = inf; best = i; }
+      });
+      return best;
+    },
+    []
+  );
+
   const start = () => {
+    if (!questions.length) return;
     setHistory([]); setUsedQs(new Set()); setTheta(0); setSe(null);
     setLastCorrect(null); setSelected(null);
-    // First item: closest to theta=0
-    const first = QUESTIONS.reduce((bi, q, i) => Math.abs(q.b) < Math.abs(QUESTIONS[bi].b) ? i : bi, 0);
+    const first = questions.reduce(
+      (bi, q, i) => Math.abs(q.b) < Math.abs(questions[bi].b) ? i : bi,
+      0
+    );
     setCurIdx(first);
     setPhase("question");
   };
 
   const submit = () => {
     if (curIdx === null || selected === null) return;
-    const q = QUESTIONS[curIdx];
-    const correct = selected === q.correctIdx;
+    const q = questions[curIdx];
+    const correctAlt = q.alternativas.find((a) => a.correta);
+    const correct = !!correctAlt && selected === correctAlt.id;
     setLastCorrect(correct);
     setPhase("calculating");
 
     const newUsed = new Set(usedQs); newUsed.add(curIdx);
     const responses = [...history.map((h) => (h.correct ? 1 : 0)), correct ? 1 : 0];
-    const params = [...history.map((h) => QUESTIONS[h.qIdx]), q];
+    const params = [...history.map((h) => questions[h.qIdx]), q];
     const { theta: nt, se: ns } = eapEstimate(responses, params.map((p) => ({ a: p.a, b: p.b, c: p.c })));
     const step = history.length + 1;
     const entry: Step = { step, theta: +nt.toFixed(3), se: +ns.toFixed(3), correct, qIdx: curIdx };
@@ -136,10 +153,10 @@ export function DemoSection() {
       setHistory(nh); setUsedQs(newUsed); setTheta(+nt.toFixed(3)); setSe(+ns.toFixed(3));
       setSelected(null);
 
-      if (step >= 8 || (step >= 5 && ns < 0.3)) {
+      if (step >= MAX_STEPS || (step >= 5 && ns < 0.3) || newUsed.size >= questions.length) {
         setCurIdx(null); setPhase("done");
       } else {
-        const next = selectNext(nt, newUsed);
+        const next = selectNext(nt, newUsed, questions);
         setCurIdx(next); setPhase("result");
         setTimeout(() => setPhase("question"), 1600);
       }
@@ -152,7 +169,7 @@ export function DemoSection() {
     correct: h.correct,
   }));
 
-  const curQ = curIdx !== null ? QUESTIONS[curIdx] : null;
+  const curQ = curIdx !== null ? questions[curIdx] : null;
 
   return (
     <section className="py-20 sm:py-32 overflow-hidden">
@@ -187,18 +204,23 @@ export function DemoSection() {
                     <div>
                       <p className="text-base font-semibold">Simulação interativa do CAT</p>
                       <p className="text-[13px] text-muted-foreground mt-1.5 leading-relaxed">
-                        Responda questões de Matemática e veja como o algoritmo adaptativo seleciona os itens e estima a proficiência.
+                        Responda questões de Matemática (9º ano EF) e veja como o algoritmo adaptativo seleciona os itens e estima a proficiência.
                       </p>
                     </div>
                     <div className="flex items-center justify-center gap-4 text-[11px] text-muted-foreground">
-                      <span>8 questões reais</span>
+                      <span>Banco SAEB · TRIEduc</span>
                       <span className="h-3 w-px bg-border" />
                       <span>Modelo 3PL</span>
                       <span className="h-3 w-px bg-border" />
                       <span>Estimação EAP</span>
                     </div>
-                    <Button onClick={start} size="lg" className="rounded-xl h-11 px-8 text-sm">
-                      Iniciar Simulação
+                    <Button
+                      onClick={start}
+                      size="lg"
+                      className="rounded-xl h-11 px-8 text-sm"
+                      disabled={loadingQuestions || !questions.length}
+                    >
+                      {loadingQuestions ? "Carregando..." : "Iniciar Simulação"}
                     </Button>
                   </div>
                 </motion.div>
@@ -209,7 +231,7 @@ export function DemoSection() {
                   {/* Stats bar */}
                   <div className="px-5 pt-5 sm:px-6 sm:pt-6">
                     <div className="flex items-center gap-2 flex-wrap">
-                      <StatPill label="Questão" value={`${history.length + (phase === "question" ? 1 : 0)} de 8`} />
+                      <StatPill label="Questão" value={`${history.length + (phase === "question" ? 1 : 0)} de ${MAX_STEPS}`} />
                       <StatPill label="Proficiência" value={`${formatSaeb(theta)} pts`} highlight />
                       {se != null && <StatPill label="Erro padrão" value={`±${Math.round(50 * se)} pts`} />}
                       <StatPill label="Acertos" value={`${history.filter((h) => h.correct).length}`} />
@@ -235,25 +257,47 @@ export function DemoSection() {
                             transition={{ duration: 0.35, ease: EASE }} className="w-full space-y-5">
                             <div>
                               <Badge variant="secondary" className="text-[10px] mb-3">Questão {history.length + 1}</Badge>
-                              <p className="text-[15px] leading-relaxed">{curQ.question}</p>
+                              {curQ.textosBase.map((tb) => (
+                                <div key={tb.id} className="rounded-xl border border-foreground/[0.06] bg-foreground/[0.03] p-3 mb-3">
+                                  {tb.titulo && <p className="text-[12px] font-semibold mb-1.5">{tb.titulo}</p>}
+                                  {tb.conteudo && (
+                                    <div
+                                      className="prose prose-sm dark:prose-invert max-w-none text-[13px] [&_p]:m-0 [&_img]:max-w-full [&_img]:rounded-md"
+                                      dangerouslySetInnerHTML={{ __html: tb.conteudo }}
+                                    />
+                                  )}
+                                  {tb.referencia && (
+                                    <p className="text-[10px] text-muted-foreground mt-2">{tb.referencia}</p>
+                                  )}
+                                </div>
+                              ))}
+                              <div
+                                className="prose prose-sm dark:prose-invert max-w-none text-[15px] leading-relaxed [&_img]:max-w-full [&_img]:rounded-md [&_p]:m-0 [&_p+p]:mt-2"
+                                dangerouslySetInnerHTML={{ __html: curQ.conteudo }}
+                              />
                             </div>
 
                             <div className="space-y-2">
-                              {curQ.alternatives.map((alt, i) => (
-                                <button key={i} type="button" onClick={() => setSelected(i)}
-                                  className={`w-full text-left flex items-center gap-3 rounded-xl border p-3 transition-all duration-150 cursor-pointer ${
-                                    selected === i
-                                      ? "border-primary bg-primary/5 ring-1 ring-primary/20"
-                                      : "border-foreground/[0.06] hover:border-foreground/10 hover:bg-foreground/[0.02]"
-                                  }`}>
-                                  <span className={`shrink-0 w-7 h-7 rounded-lg flex items-center justify-center text-xs font-semibold transition-colors ${
-                                    selected === i ? "bg-primary text-primary-foreground" : "bg-muted text-muted-foreground"
-                                  }`}>
-                                    {String.fromCharCode(65 + i)}
-                                  </span>
-                                  <span className="text-sm">{alt}</span>
-                                </button>
-                              ))}
+                              {[...curQ.alternativas]
+                                .sort((a, b) => a.ordem - b.ordem)
+                                .map((alt, i) => (
+                                  <button key={alt.id} type="button" onClick={() => setSelected(alt.id)}
+                                    className={`w-full text-left flex items-start gap-3 rounded-xl border p-3 transition-all duration-150 cursor-pointer ${
+                                      selected === alt.id
+                                        ? "border-primary bg-primary/5 ring-1 ring-primary/20"
+                                        : "border-foreground/[0.06] hover:border-foreground/10 hover:bg-foreground/[0.02]"
+                                    }`}>
+                                    <span className={`shrink-0 w-7 h-7 rounded-lg flex items-center justify-center text-xs font-semibold transition-colors ${
+                                      selected === alt.id ? "bg-primary text-primary-foreground" : "bg-muted text-muted-foreground"
+                                    }`}>
+                                      {String.fromCharCode(65 + i)}
+                                    </span>
+                                    <div
+                                      className="text-sm leading-relaxed pt-0.5 [&_p]:m-0 [&_img]:max-w-full [&_img]:rounded-md"
+                                      dangerouslySetInnerHTML={{ __html: alt.conteudo }}
+                                    />
+                                  </button>
+                                ))}
                             </div>
 
                             <Button onClick={submit} disabled={selected === null} className="w-full rounded-xl h-11 text-sm font-medium">

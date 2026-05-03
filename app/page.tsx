@@ -1,6 +1,5 @@
 import { Navbar } from "@/components/landing/navbar";
 import { Hero } from "@/components/landing/hero";
-import { Metrics } from "@/components/landing/metrics";
 import { HowItWorks } from "@/components/landing/how-it-works";
 import { TriSection } from "@/components/landing/tri-section";
 import { DemoSection } from "@/components/landing/demo-section";
@@ -13,7 +12,6 @@ export default function LandingPage() {
       <Navbar />
       <main>
         <Hero />
-        <Metrics />
         <HowItWorks />
         <DemoSection />
         <div id="metodologia">

@@ -122,14 +122,13 @@ export function ThetaChart({
           dot={(props: any) => {
             const { cx, cy, index } = props;
             if (cx == null || cy == null) return <></>;
-            const entry = data[index];
             return (
               <circle
                 key={index}
                 cx={cx}
                 cy={cy}
                 r={4}
-                fill={entry?.correct ? "hsl(142 71% 45%)" : "hsl(0 84% 60%)"}
+                fill="var(--color-chart-1)"
                 stroke="var(--color-background)"
                 strokeWidth={2}
               />

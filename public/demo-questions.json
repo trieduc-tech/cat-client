@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "209c33e0-04a6-47db-8de0-26a3ba350478",
+    "codigo": "Q25_TRIEDUC_SAEB_MT_9EF_T2D12",
+    "conteudo": "<p class=\"ql-align-justify\">O esquema a seguir representa um lote cujo formato é um quadrilátero, sendo que cada quadrinho tem lado medindo 5 metros.</p><p><br></p><p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/209c33e0-04a6-47db-8de0-26a3ba350478/f631c124-ff3b-4b02-9a4c-86d00b9c1846.png\"></p><p><br></p><p>O dono cercará todo o terreno e passará 3 vezes a cerca de arame. Quantos metros de arame serão necessários para cercar o terreno?</p>",
+    "a": 0.7904,
+    "b": 2.9621,
+    "c": 0.1805,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "9c63d533-0202-43f6-9e66-a3616feb501b",
+        "conteudo": "<p>60 m.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "a5829a3d-4f49-4d98-a79d-99b6a6cb47b3",
+        "conteudo": "<p>100 m.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "55b7074f-51b7-412a-9966-f860422662c6",
+        "conteudo": "<p>180 m.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "e0e675f4-4f32-4899-b6e1-7f92f5efbad2",
+        "conteudo": "<p>300 m</p>",
+        "ordem": 4,
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "a1683794-f249-479b-b776-3879d37a75b2",
+    "codigo": "Q03_TRIEDUC_SAEB_MT_9EF_T3D32",
+    "conteudo": "<p class=\"ql-align-justify\">Na tabela a seguir, as variáveis A e P assumem valores numéricos de forma que o valor de P está relacionado ao valor de A.</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/a1683794-f249-479b-b776-3879d37a75b2/d9425c03-b4de-4f39-b59c-4703e8bbabe8.png\"></p><p class=\"ql-align-justify\">A expressão que define a relação entre P e A é</p>",
+    "a": 1.4015,
+    "b": -0.8124,
+    "c": 0.2038,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "102dc18f-f5cd-4745-9e7d-047a10c37fa6",
+        "conteudo": "<p>P = 2A + 1</p>",
+        "ordem": 1,
+        "correta": true
+      },
+      {
+        "id": "87609e82-3e50-4977-9a4c-59ca4cfb0182",
+        "conteudo": "<p>P = 2(A + 1)</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "3eb54d5e-8702-4ab6-ab20-c99de0ca3509",
+        "conteudo": "<p>P = 3(A – 1)</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "cde74511-239b-45d0-874b-6673bd43e97f",
+        "conteudo": "<p>P = 3A – 1</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "193e46da-165c-4de7-a5ea-416cf233ae83",
+    "codigo": "Q05_TRIEDUC_SAEB_MT_9EF_T3D33",
+    "conteudo": "<p>Uma empresa de entrega cobra dos seus clientes uma taxa fixa de R$ 10,00 mais uma taxa de R$ 0,50 por cada quilômetro rodado.</p><p><br></p><p>A expressão que fornece o preço P que o cliente paga por uma entrega de x quilômetros é:</p>",
+    "a": 1.8646,
+    "b": -0.9109,
+    "c": 0.1953,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "48bc162b-caec-45d4-b66c-aa81f996308e",
+        "conteudo": "<p>P = 10 + 0,50x.</p>",
+        "ordem": 1,
+        "correta": true
+      },
+      {
+        "id": "00ce5aed-76a1-4245-bfe6-332e8e67873a",
+        "conteudo": "<p>P = 10x +0,50.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "4d214e9c-6d50-4548-8d0e-36b56524c491",
+        "conteudo": "<p>P = (10 + 0,50)x.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "10b52df0-d6a2-4542-ad5a-0140388ae8f3",
+        "conteudo": "<p>P = (10 × 0,50)x.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "2fb4e6f8-7ebb-4606-81d2-48191c19a70e",
+    "codigo": "Q10_TRIEDUC_SAEB_MT_9EF_T3D20",
+    "conteudo": "<p class=\"ql-align-justify\">Observe a tabela a seguir:</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/2fb4e6f8-7ebb-4606-81d2-48191c19a70e/341e69a7-7755-49dc-b687-8c2280a2d102.png\"></p><p><br></p><p>O saldo semestral é a soma de todos os saldos mensais.</p><p><br></p><p>O saldo semestral, em bilhões de reais, é de</p>",
+    "a": 1.5692,
+    "b": -1.1987,
+    "c": 0.202,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "8ab77c2e-cc5c-42e6-8f90-819b1523ee8a",
+        "conteudo": "<p>-82.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "b617522d-4729-486e-a857-2f95096105eb",
+        "conteudo": "<p>-12.</p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "3a0322bc-5a38-4333-90b9-b0cf58c0fe74",
+        "conteudo": "<p>70.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "494a88a3-4697-4422-a59f-1f3ca7cf2a25",
+        "conteudo": "<p>152.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "2db033ab-c71a-40a7-be85-55f0ffdde079",
+    "codigo": "Q18_TRIEDUC_SAEB_MT_9EF_T1D10",
+    "conteudo": "<p class=\"ql-align-justify\">Em um jogo de batalha naval, o navio C disparou uma bomba na direção do navio B. O submarino A recebeu um pedido de ajuda e disparou um míssil que interceptará a bomba no ponto I, sendo que a trajetória AI do míssil é perpendicular à trajetória CB da bomba, conforme esquema a seguir.</p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/2db033ab-c71a-40a7-be85-55f0ffdde079/b11b6bee-2bd0-4d06-a36e-ef037b6295f8.png\"></p><p><br></p><p>A distância entre o submarino A e o navio B é de 8 km e a distância entre o submarino A e o navio C é de 6 km.</p><p><br></p><p class=\"ql-align-justify\">A que distância, em quilômetros, o ponto de interceptação I está do navio B?</p>",
+    "a": 0.782,
+    "b": 1.4949,
+    "c": 0.1986,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "1f30186c-a4a0-4d57-9788-267566c98f8c",
+        "conteudo": "<p>3,6.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "f325fc4a-ccf0-4871-b2b2-c9af16024fc9",
+        "conteudo": "<p>4,8.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "3ae2d860-787f-4e24-80e3-c38f2ccb3ec4",
+        "conteudo": "<p>6,4.</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "85f50874-12ea-447a-9776-183857645af7",
+        "conteudo": "<p>6,7.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "3a69fdca-d9fe-4bbe-8d91-6440c42569b3",
+    "codigo": "Q16_TRIEDUC_SAEB_MT_9EF_T3D30",
+    "conteudo": "<p>Observe a expressão algébrica a seguir:</p><p>x<sup>2 </sup>+ 2x - y<sup>3 </sup>+ 3y</p><p><br></p><p class=\"ql-align-justify\">Qual é o valor dessa expressão, se x = 3 e y = − 2?</p><p><br></p>",
+    "a": 1.6406,
+    "b": 0.0757,
+    "c": 0.1851,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "f604c10d-1e19-4fb0-835d-8a7b595dcf97",
+        "conteudo": "<p>0.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "5ed11d56-48bd-4be3-be47-c27371a190cc",
+        "conteudo": "<p>1.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "ebfb2309-0cd9-4ffc-b2f8-df8dd7245fb0",
+        "conteudo": "<p>12.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "772fabe2-92b8-4e0f-8c8a-975a8b448ae2",
+        "conteudo": "<p>17.</p>",
+        "ordem": 4,
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "da8694c5-cc96-4a33-80cd-6fbf4f0289f1",
+    "codigo": "Q12_TRIEDUC_SAEB_MT_9EF_T3D35",
+    "conteudo": "<p class=\"ql-align-justify\">Observe o sistema de equações a seguir:</p><p><br></p><p><span class=\"ql-formula\" data-value=\"\\begin{cases}3x  +\\ 2y\\ =\\ -1\\\\-4x\\ +\\ 2y\\ =\\ -8\\end{cases}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo fence=\"true\">{</mo><mtable rowspacing=\"0.3600em\" columnalign=\"left left\" columnspacing=\"1em\"><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mn>3</mn><mi>x</mi><mo>+</mo><mtext>&nbsp;</mtext><mn>2</mn><mi>y</mi><mtext>&nbsp;</mtext><mo>=</mo><mtext>&nbsp;</mtext><mo>−</mo><mn>1</mn></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mo>−</mo><mn>4</mn><mi>x</mi><mtext>&nbsp;</mtext><mo>+</mo><mtext>&nbsp;</mtext><mn>2</mn><mi>y</mi><mtext>&nbsp;</mtext><mo>=</mo><mtext>&nbsp;</mtext><mo>−</mo><mn>8</mn></mrow></mstyle></mtd></mtr></mtable></mrow><annotation encoding=\"application/x-tex\">\\begin{cases}3x  +\\ 2y\\ =\\ -1\\\\-4x\\ +\\ 2y\\ =\\ -8\\end{cases}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 3.00003em; vertical-align: -1.25003em;\"></span><span class=\"minner\"><span class=\"mopen delimcenter\" style=\"top: 0em;\"><span class=\"delimsizing size4\">{</span></span><span class=\"mord\"><span class=\"mtable\"><span class=\"col-align-l\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.69em;\"><span class=\"\" style=\"top: -3.69em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">3</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span><span class=\"mord\">2</span><span class=\"mord mathnormal\" style=\"margin-right: 0.03588em;\">y</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mord\">−</span><span class=\"mord\">1</span></span></span><span class=\"\" style=\"top: -2.25em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">−</span><span class=\"mord\">4</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span><span class=\"mord\">2</span><span class=\"mord mathnormal\" style=\"margin-right: 0.03588em;\">y</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mord\">−</span><span class=\"mord\">8</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.19em;\"><span class=\"\"></span></span></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p><p><br></p><p>A representação gráfica desse sistema é</p>",
+    "a": 1.0767,
+    "b": 0.7352,
+    "c": 0.204,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "3b5af6d0-56c5-442d-8e2d-7a2c9e3c0977",
+        "conteudo": "<p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/da8694c5-cc96-4a33-80cd-6fbf4f0289f1/9f44155f-4cbf-4621-885d-1d786379fed7.png\"></p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "6500f3e0-aa98-4e83-ad0e-1e3759889711",
+        "conteudo": "<p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/da8694c5-cc96-4a33-80cd-6fbf4f0289f1/e70baff6-1319-465d-8e3a-9305d4012cf8.png\"></p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "bf309f60-4717-4986-b036-7b84ef72facf",
+        "conteudo": "<p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/da8694c5-cc96-4a33-80cd-6fbf4f0289f1/14f858d4-089d-4b10-8b20-62fa57a62118.png\"></p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "1014d207-3d8c-4d03-acfd-a4fd501dc3c2",
+        "conteudo": "<p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/da8694c5-cc96-4a33-80cd-6fbf4f0289f1/02235c18-cc0d-40a8-915a-a2f19f439fcd.png\"></p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "885fd6cf-8a29-47e8-ab59-969672ade33d",
+    "codigo": "Q20_TRIEDUC_SAEB_MT_9EF_T4D36",
+    "conteudo": "<p>O consumo de energia elétrica residencial no Brasil aumentou, gradativamente, nos últimos anos, conforme mostra a tabela.</p><p><br></p><p>Em 2019, quantos GWH a mais foram consumidos em comparação ao ano de 2015?</p>",
+    "a": 1.1267,
+    "b": -1.4872,
+    "c": 0.2019,
+    "textosBase": [
+      {
+        "id": "a59f68a8-7fd5-4e8f-a28b-441e487c86f0",
+        "titulo": "",
+        "conteudo": "<p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/textos-base/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/04004bf7-1b54-4f94-9aca-25369485ce54/b5c48d5e-76d5-4698-98c1-21ae3a00ec40.png\"></p>",
+        "referencia": "Disponível em: https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/consumo-de-energia-eletrica/consumo-anual-de-energia-eletrica-por-classe-(nacional). Acesso em: 25 maio 2021."
+      }
+    ],
+    "alternativas": [
+      {
+        "id": "9c5ab0f2-2bec-4562-b439-03746b984d42",
+        "conteudo": "<p>10.740.</p>",
+        "ordem": 1,
+        "correta": true
+      },
+      {
+        "id": "3e90bfea-f6eb-4923-a61d-6afcbd4cdbd1",
+        "conteudo": "<p>17.022.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "533a636f-4fc7-4ab7-b588-2f9e11d27321",
+        "conteudo": "<p>266.838.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "13e718db-6f72-4551-8d0f-5ec1e9914c7f",
+        "conteudo": "<p>273.120.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "7b1f72b9-0b78-459c-9973-a9ddafc22d9e",
+    "codigo": "Q04_TRIEDUC_SAEB_MT_9EF_T3D27",
+    "conteudo": "<p class=\"ql-align-justify\">Observe a expressão a seguir:</p><p><br></p><p><span class=\"ql-formula\" data-value=\"3\\sqrt{2} + \\sqrt{3}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>3</mn><msqrt><mn>2</mn></msqrt><mo>+</mo><msqrt><mn>3</mn></msqrt></mrow><annotation encoding=\"application/x-tex\">3\\sqrt{2} + \\sqrt{3}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.04em; vertical-align: -0.13278em;\"></span><span class=\"mord\">3</span><span class=\"mord sqrt\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.90722em;\"><span class=\"svg-align\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\" style=\"padding-left: 0.833em;\"><span class=\"mord\">2</span></span></span><span class=\"\" style=\"top: -2.86722em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"hide-tail\" style=\"min-width: 0.853em; height: 1.08em;\"><svg width=\"400em\" height=\"1.08em\" viewBox=\"0 0 400000 1080\" preserveAspectRatio=\"xMinYMin slice\"><path d=\"M95,702\nc-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14\nc0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54\nc44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10\ns173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429\nc69,-144,104.5,-217.7,106.5,-221\nl0 -0\nc5.3,-9.3,12,-14,20,-14\nH400000v40H845.2724\ns-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7\nc-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z\nM834 80h400000v40h-400000z\"></path></svg></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.13278em;\"><span class=\"\"></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.04em; vertical-align: -0.13278em;\"></span><span class=\"mord sqrt\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.90722em;\"><span class=\"svg-align\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\" style=\"padding-left: 0.833em;\"><span class=\"mord\">3</span></span></span><span class=\"\" style=\"top: -2.86722em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"hide-tail\" style=\"min-width: 0.853em; height: 1.08em;\"><svg width=\"400em\" height=\"1.08em\" viewBox=\"0 0 400000 1080\" preserveAspectRatio=\"xMinYMin slice\"><path d=\"M95,702\nc-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14\nc0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54\nc44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10\ns173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429\nc69,-144,104.5,-217.7,106.5,-221\nl0 -0\nc5.3,-9.3,12,-14,20,-14\nH400000v40H845.2724\ns-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7\nc-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z\nM834 80h400000v40h-400000z\"></path></svg></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.13278em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span>﻿</span> </p><p><br></p><p>O resultado da expressão, com aproximação de 1 casa decimal, é</p>",
+    "a": 0.7195,
+    "b": -0.3047,
+    "c": 0.2042,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "06af5fd8-419c-4545-adb5-4a2f386ad1a2",
+        "conteudo": "<p>3,0.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "68dd15dd-2c7a-42e2-b55f-22c8c1885aae",
+        "conteudo": "<p>4,1.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "ed438a67-1263-437b-8f03-6807923bb577",
+        "conteudo": "<p>5,9.</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "3a1935af-99d2-4ff2-8dba-1fb8b522747c",
+        "conteudo": "<p>9,3.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "184fca38-4f69-4337-ae4e-b0f14e34a790",
+    "codigo": "Q06_TRIEDUC_SAEB_MT_9EF_T3D34",
+    "conteudo": "<p class=\"ql-align-justify\">Diego é um atleta que precisa fazer uma alimentação balanceada que forneça a ele energia para realizar sua atividade física. Sua nutricionista passou uma dieta baseada em dois tipos de alimentos: o alimento A e o alimento B.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Pela manhã, antes da atividade física, ele deve consumir 6 porções do alimento A e 2 porções do alimento B, totalizando 500 calorias. Ao término da atividade, ele deve comer a metade da porção consumida pela manhã do alimento A, e triplicar a porção do alimento B, totalizando 400 calorias.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">O sistema de equações que representa as duas refeições ingeridas pelo atleta é:</p>",
+    "a": 1.0114,
+    "b": -1.7906,
+    "c": 0.202,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "0c09b2ff-c5ef-4a29-8f46-bc6baa283e5d",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\begin{cases}6A &amp; +\\ 2B\\ = 500\\\\18A &amp;+\\ 1B\\ = 400\\end{cases}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo fence=\"true\">{</mo><mtable rowspacing=\"0.3600em\" columnalign=\"left left\" columnspacing=\"1em\"><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mn>6</mn><mi>A</mi></mrow></mstyle></mtd><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mo>+</mo><mtext>&nbsp;</mtext><mn>2</mn><mi>B</mi><mtext>&nbsp;</mtext><mo>=</mo><mn>500</mn></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mn>18</mn><mi>A</mi></mrow></mstyle></mtd><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mo>+</mo><mtext>&nbsp;</mtext><mn>1</mn><mi>B</mi><mtext>&nbsp;</mtext><mo>=</mo><mn>400</mn></mrow></mstyle></mtd></mtr></mtable></mrow><annotation encoding=\"application/x-tex\">\\begin{cases}6A &amp; +\\ 2B\\ = 500\\\\18A &amp;+\\ 1B\\ = 400\\end{cases}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 3.00003em; vertical-align: -1.25003em;\"></span><span class=\"minner\"><span class=\"mopen delimcenter\" style=\"top: 0em;\"><span class=\"delimsizing size4\">{</span></span><span class=\"mord\"><span class=\"mtable\"><span class=\"col-align-l\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.69em;\"><span class=\"\" style=\"top: -3.69em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">6</span><span class=\"mord mathnormal\">A</span></span></span><span class=\"\" style=\"top: -2.25em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">18</span><span class=\"mord mathnormal\">A</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.19em;\"><span class=\"\"></span></span></span></span></span><span class=\"arraycolsep\" style=\"width: 1em;\"></span><span class=\"col-align-l\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.69em;\"><span class=\"\" style=\"top: -3.69em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">+</span><span class=\"mspace\">&nbsp;</span><span class=\"mord\">2</span><span class=\"mord mathnormal\" style=\"margin-right: 0.05017em;\">B</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mord\">500</span></span></span><span class=\"\" style=\"top: -2.25em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">+</span><span class=\"mspace\">&nbsp;</span><span class=\"mord\">1</span><span class=\"mord mathnormal\" style=\"margin-right: 0.05017em;\">B</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mord\">400</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.19em;\"><span class=\"\"></span></span></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "a81cac23-bc89-4ec1-9a85-54e0b9d26499",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\begin{cases}6A &amp; +\\ 2B\\ = 500\\\\3A &amp;+\\ 1B\\ =\\ 400\\end{cases}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo fence=\"true\">{</mo><mtable rowspacing=\"0.3600em\" columnalign=\"left left\" columnspacing=\"1em\"><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mn>6</mn><mi>A</mi></mrow></mstyle></mtd><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mo>+</mo><mtext>&nbsp;</mtext><mn>2</mn><mi>B</mi><mtext>&nbsp;</mtext><mo>=</mo><mn>500</mn></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mn>3</mn><mi>A</mi></mrow></mstyle></mtd><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mo>+</mo><mtext>&nbsp;</mtext><mn>1</mn><mi>B</mi><mtext>&nbsp;</mtext><mo>=</mo><mtext>&nbsp;</mtext><mn>400</mn></mrow></mstyle></mtd></mtr></mtable></mrow><annotation encoding=\"application/x-tex\">\\begin{cases}6A &amp; +\\ 2B\\ = 500\\\\3A &amp;+\\ 1B\\ =\\ 400\\end{cases}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 3.00003em; vertical-align: -1.25003em;\"></span><span class=\"minner\"><span class=\"mopen delimcenter\" style=\"top: 0em;\"><span class=\"delimsizing size4\">{</span></span><span class=\"mord\"><span class=\"mtable\"><span class=\"col-align-l\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.69em;\"><span class=\"\" style=\"top: -3.69em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">6</span><span class=\"mord mathnormal\">A</span></span></span><span class=\"\" style=\"top: -2.25em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">3</span><span class=\"mord mathnormal\">A</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.19em;\"><span class=\"\"></span></span></span></span></span><span class=\"arraycolsep\" style=\"width: 1em;\"></span><span class=\"col-align-l\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.69em;\"><span class=\"\" style=\"top: -3.69em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">+</span><span class=\"mspace\">&nbsp;</span><span class=\"mord\">2</span><span class=\"mord mathnormal\" style=\"margin-right: 0.05017em;\">B</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mord\">500</span></span></span><span class=\"\" style=\"top: -2.25em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">+</span><span class=\"mspace\">&nbsp;</span><span class=\"mord\">1</span><span class=\"mord mathnormal\" style=\"margin-right: 0.05017em;\">B</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mord\">400</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.19em;\"><span class=\"\"></span></span></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "7d724b13-6e31-4e50-b655-b39907c07fda",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\left\\{\\begin{matrix}6A+2B=500\\\\3A+6B=400\\\\\\end{matrix}\\right.\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo fence=\"true\">{</mo><mtable rowspacing=\"0.1600em\" columnalign=\"center\" columnspacing=\"1em\"><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mn>6</mn><mi>A</mi><mo>+</mo><mn>2</mn><mi>B</mi><mo>=</mo><mn>500</mn></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mn>3</mn><mi>A</mi><mo>+</mo><mn>6</mn><mi>B</mi><mo>=</mo><mn>400</mn></mrow></mstyle></mtd></mtr></mtable></mrow><annotation encoding=\"application/x-tex\">\\left\\{\\begin{matrix}6A+2B=500\\\\3A+6B=400\\\\\\end{matrix}\\right.</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 2.40003em; vertical-align: -0.95003em;\"></span><span class=\"minner\"><span class=\"mopen delimcenter\" style=\"top: 0em;\"><span class=\"delimsizing size3\">{</span></span><span class=\"mord\"><span class=\"mtable\"><span class=\"col-align-c\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.45em;\"><span class=\"\" style=\"top: -3.61em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">6</span><span class=\"mord mathnormal\">A</span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span><span class=\"mord\">2</span><span class=\"mord mathnormal\" style=\"margin-right: 0.05017em;\">B</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mord\">500</span></span></span><span class=\"\" style=\"top: -2.41em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">3</span><span class=\"mord mathnormal\">A</span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span><span class=\"mord\">6</span><span class=\"mord mathnormal\" style=\"margin-right: 0.05017em;\">B</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mord\">400</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.95em;\"><span class=\"\"></span></span></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "37dd9f2d-9ba2-4d55-ae81-e2945a1d9b91",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\begin{cases}6A &amp; +\\ 2B\\ = 400\\\\3A &amp;+\\ 6B\\ = 500\\end{cases}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo fence=\"true\">{</mo><mtable rowspacing=\"0.3600em\" columnalign=\"left left\" columnspacing=\"1em\"><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mn>6</mn><mi>A</mi></mrow></mstyle></mtd><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mo>+</mo><mtext>&nbsp;</mtext><mn>2</mn><mi>B</mi><mtext>&nbsp;</mtext><mo>=</mo><mn>400</mn></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mn>3</mn><mi>A</mi></mrow></mstyle></mtd><mtd><mstyle scriptlevel=\"0\" displaystyle=\"false\"><mrow><mo>+</mo><mtext>&nbsp;</mtext><mn>6</mn><mi>B</mi><mtext>&nbsp;</mtext><mo>=</mo><mn>500</mn></mrow></mstyle></mtd></mtr></mtable></mrow><annotation encoding=\"application/x-tex\">\\begin{cases}6A &amp; +\\ 2B\\ = 400\\\\3A &amp;+\\ 6B\\ = 500\\end{cases}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 3.00003em; vertical-align: -1.25003em;\"></span><span class=\"minner\"><span class=\"mopen delimcenter\" style=\"top: 0em;\"><span class=\"delimsizing size4\">{</span></span><span class=\"mord\"><span class=\"mtable\"><span class=\"col-align-l\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.69em;\"><span class=\"\" style=\"top: -3.69em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">6</span><span class=\"mord mathnormal\">A</span></span></span><span class=\"\" style=\"top: -2.25em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">3</span><span class=\"mord mathnormal\">A</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.19em;\"><span class=\"\"></span></span></span></span></span><span class=\"arraycolsep\" style=\"width: 1em;\"></span><span class=\"col-align-l\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.69em;\"><span class=\"\" style=\"top: -3.69em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">+</span><span class=\"mspace\">&nbsp;</span><span class=\"mord\">2</span><span class=\"mord mathnormal\" style=\"margin-right: 0.05017em;\">B</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mord\">400</span></span></span><span class=\"\" style=\"top: -2.25em;\"><span class=\"pstrut\" style=\"height: 3.008em;\"></span><span class=\"mord\"><span class=\"mord\">+</span><span class=\"mspace\">&nbsp;</span><span class=\"mord\">6</span><span class=\"mord mathnormal\" style=\"margin-right: 0.05017em;\">B</span><span class=\"mspace\">&nbsp;</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.277778em;\"></span><span class=\"mord\">500</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.19em;\"><span class=\"\"></span></span></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "fb8efdb0-b697-4b2d-8580-e2ea0c4518b9",
+    "codigo": "Q24_TRIEDUC_SAEB_MT_9EF_T3D29",
+    "conteudo": "<p>Em uma plantação, 4 máquinas colheitadeiras recolhem uma quantidade Q de toneladas de grãos em 20 horas.</p><p><br></p><p>O fazendeiro adquiriu mais 2 colheitadeiras. Nessa situação, qual é o tempo necessário para colher a mesma quantidade Q de toneladas de grãos?</p>",
+    "a": 0.9051,
+    "b": 0.3655,
+    "c": 0.2017,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "4da25306-d70a-494f-ab6b-608379b6d9b9",
+        "conteudo": "<p>6,7 h.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "051d7e1d-90cb-4bc0-bd82-9099a59827b4",
+        "conteudo": "<p>10,0 h.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "ae7dbf6f-8647-417c-a420-ac8b5a354994",
+        "conteudo": "<p>13,3 h.</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "9b619b2e-fad7-4bcc-bc4f-b292129b2780",
+        "conteudo": "<p>30,0 h</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "0c8b9f1e-db69-4e13-b023-f6dd1ed3ba05",
+    "codigo": "Q26_TRIEDUC_SAEB_MT_9EF_T3D31",
+    "conteudo": "<p>Em um campeonato de futebol, o total de jogos é dado por&nbsp;<span class=\"ql-formula\" data-value=\"2(n^2-2)\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>2</mn><mo stretchy=\"false\">(</mo><msup><mi>n</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mo stretchy=\"false\">)</mo></mrow><annotation encoding=\"application/x-tex\">2(n^2-2)</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.06411em; vertical-align: -0.25em;\"></span><span class=\"mord\">2</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord mathnormal\">n</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.814108em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span><span class=\"mbin\">−</span><span class=\"mspace\" style=\"margin-right: 0.222222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord\">2</span><span class=\"mclose\">)</span></span></span></span></span>﻿</span>, sendo n o número de times participantes.</p><p>Na edição de 2020, o número de jogos desse campeonato foi 264.</p><p><br></p><p>Quantos times participaram desse campeonato em 2020?</p>",
+    "a": 0.6098,
+    "b": 0.5765,
+    "c": 0,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "c4593645-b152-4e60-b63d-66bb39edf08d",
+        "conteudo": "<p>7.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "b449c7aa-6c61-4525-b422-552a67919fd0",
+        "conteudo": "<p>12.</p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "254a0503-510e-40ed-9939-52c8aa3b367a",
+        "conteudo": "<p>17.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "f3b119ff-932f-49be-adcf-90a074952128",
+        "conteudo": "<p>23.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "760160dc-9a29-4a99-8b81-fb2a8ffefd7f",
+    "codigo": "Q02_SAEB_SOMA_9ano_MT_2024",
+    "conteudo": "<p>Dessa maneira, a receita obtida com a exportação de minério de ferro, no ano de 2020, em bilhões de dólares, foi de aproximadamente</p>",
+    "a": 1.1558,
+    "b": 1.2586,
+    "c": 0.1958,
+    "textosBase": [
+      {
+        "id": "5e3c7671-6437-4550-83fc-79a434911a66",
+        "titulo": "",
+        "conteudo": "<p>As receitas com exportações de minério de ferro do Brasil deverão crescer 60% em 2021, em relação ao ano de 2020, atingindo a marca de 42 bilhões de dólares.</p>",
+        "referencia": "Exportação de minério [...]. Disponível em https://economia.uol.com.br/noticias/reuters/2021/05/04/exportacao-de-minerio-de-ferro-do-brasil-vai-superar-receita-da-soja-em-2021-diz-aeb.htm Acesso em 28 jan. 2023 (Adaptado)."
+      }
+    ],
+    "alternativas": [
+      {
+        "id": "559ebe73-fbc8-46c5-a2f4-027f6072733e",
+        "conteudo": "<p>16,8.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "f0d65535-b347-48b8-916f-667e7c19cc68",
+        "conteudo": "<p>25,2.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "90979b19-df54-4189-8b77-d80341dfbf26",
+        "conteudo": "<p>26,2.</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "a79216e4-94af-42ac-afa3-4bfba5f3bde6",
+        "conteudo": "<p>67,2</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "12667bbe-6e1b-40af-8d79-0750ed8e2c90",
+    "codigo": "Q06_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p>Um funcionário de uma empresa trabalhou até o 21º dia do mês e se demitiu. Parte da sua <span style=\"color: rgb(66, 66, 66);\">rescisão contratual</span> inclui o pagamento proporcional pelos dias em que ele foi funcionário da empresa. Considere um mês com 30 dias, onde o salário mensal cobre do 1º ao último dia do mês.</p><p><br></p><p>Se o salário mensal desse funcionário era de R$ 6 000,00, quanto ele deve receber pelos dias em que ficou na empresa neste mês?</p>",
+    "a": 1.8334,
+    "b": -0.4472,
+    "c": 0.1964,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "9964e664-151a-4894-a1b2-a74e096f73e1",
+        "conteudo": "<p>R$ 1 260,00</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "c8e20414-b016-478b-8240-c3a3e76207ca",
+        "conteudo": "<p>R$ 1 800,00</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "f4f827a1-2684-439b-a752-e6a163a981f8",
+        "conteudo": "<p>R$ 4 200,00</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "7985f801-8d72-4581-9a77-07d15c7747dc",
+        "conteudo": "<p><span style=\"color: rgb(66, 66, 66);\">R$ 4 740,00</span></p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "871e74a3-2ca2-465b-afc8-0c178d3a6381",
+    "codigo": "Q06_SAEB_SOMA_9ano_MT_T3D30_2022",
+    "conteudo": "<p>Ao tentar calcular o volume de um recipiente, Pedro obtém a expressão <span class=\"ql-formula\" data-value=\"V=3a^{2}\\cdot b+c^{3}\" data-id=\"formula-2025-07-15T18:16:51.861Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>V</mi><mo>=</mo><mn>3</mn><msup><mi>a</mi><mn>2</mn></msup><mo>⋅</mo><mi>b</mi><mo>+</mo><msup><mi>c</mi><mn>3</mn></msup></mrow><annotation encoding=\"application/x-tex\">V=3a^{2}\\cdot b+c^{3}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6833em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.2222em;\">V</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\">3</span><span class=\"mord\"><span class=\"mord mathnormal\">a</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">⋅</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.7778em; vertical-align: -0.0833em;\"></span><span class=\"mord mathnormal\">b</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">c</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span></span></span></span></span></span></span>﻿</span>, em que <span class=\"ql-formula\" data-value=\"a\" data-id=\"formula-2025-07-15T18:16:51.861Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>a</mi></mrow><annotation encoding=\"application/x-tex\">a</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\">a</span></span></span></span></span>﻿</span>, <span class=\"ql-formula\" data-value=\"b\" data-id=\"formula-2025-07-15T18:16:51.861Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>b</mi></mrow><annotation encoding=\"application/x-tex\">b</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6944em;\"></span><span class=\"mord mathnormal\">b</span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"c\" data-id=\"formula-2025-07-15T18:16:51.861Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>c</mi></mrow><annotation encoding=\"application/x-tex\">c</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\">c</span></span></span></span></span>﻿</span> são parâmetros que indicam suas dimensões.</p><p>Após desenvolver a expressão, Pedro obtém as medidas <span class=\"ql-formula\" data-value=\"a=10\" data-id=\"formula-2025-07-15T18:16:51.861Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>a</mi><mo>=</mo><mn>10</mn></mrow><annotation encoding=\"application/x-tex\">a=10</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\">a</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">10</span></span></span></span></span>﻿</span> m, <span class=\"ql-formula\" data-value=\"b=20\" data-id=\"formula-2025-07-15T18:16:51.861Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>b</mi><mo>=</mo><mn>20</mn></mrow><annotation encoding=\"application/x-tex\">b=20</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6944em;\"></span><span class=\"mord mathnormal\">b</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">20</span></span></span></span></span>﻿</span> m e <span class=\"ql-formula\" data-value=\"c=5\" data-id=\"formula-2025-07-15T18:16:51.861Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>c</mi><mo>=</mo><mn>5</mn></mrow><annotation encoding=\"application/x-tex\">c=5</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\">c</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">5</span></span></span></span></span>﻿</span> m.</p><p>Diante disso, o volume do recipiente, em metros cúbicos, é de</p>",
+    "a": 0.7606,
+    "b": -0.1816,
+    "c": 0.2021,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "8977eff0-f509-42cd-a2f0-571931b1d7a3",
+        "conteudo": "<p>6 025.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "774204c5-18cb-4ff2-8a51-506285e17e58",
+        "conteudo": "<p>6 125.</p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "04cf2036-dad6-4472-b13c-dbe91115007f",
+        "conteudo": "<p>18 125.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "c113724c-b2c4-410d-8956-567ff4baebf8",
+        "conteudo": "<p>43 500.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "67995449-70c3-4bc0-88c5-1ffac4f2decf",
+    "codigo": "Q11_SAEB_SOMA_9ano_MT_T1D3_2022",
+    "conteudo": "<p><span style=\"color: rgb(66, 66, 66);\">A Torre Eiffel é uma estrutura arquitetônica planejada com base em um triângulo isósceles, conforme mostra a imagem. </span>Nesse triângulo que serviu de base para a construção da Torre, o ângulo do vértice que coincide com seu topo é</p>",
+    "a": 0.9396,
+    "b": -0.269,
+    "c": 0.2048,
+    "textosBase": [
+      {
+        "id": "725802e2-ffce-414c-8bf8-edd0d44e93d5",
+        "titulo": "",
+        "conteudo": "<p><br></p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/textos-base/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/10725bfd-0900-402f-a734-508ece02c4d4/daa59c81-e397-4847-8327-ef073fbea4e7.png\"></p>",
+        "referencia": "Stockgiu. Conjunto de torre eiffel e bandeira de frança com fita. Disponível em: https://br.freepik.com/vetores-gratis/conjunto-de-torre-eiffel-e-bandeira-de-franca-com-fita_5006012.htm#query=eiffel%20tower&position=1&from_view=search. Acesso em: 16 jul. 2022."
+      }
+    ],
+    "alternativas": [
+      {
+        "id": "d1beb976-e87d-4cb7-8ffa-0bb4cb4aaf32",
+        "conteudo": "<p>obtuso, de medida diferente da dos ângulos da base.</p><p><br></p><p><br></p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "96b98584-d8cd-4b22-8700-a38eedb0f35c",
+        "conteudo": "<p>agudo, de medida diferente da dos ângulos da base.</p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "acfb2e0a-80de-4388-9744-2d4ddbae585b",
+        "conteudo": "<p>obtuso, de medida igual à dos ângulos da base.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "2e321665-88d6-4193-bc4d-aa592984e3f4",
+        "conteudo": "<p>agudo, de medida igual à dos ângulos da base.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "af89f67d-0400-43b5-a7e8-201b18550749",
+    "codigo": "Q15_SAEB_SOMA_9ano_MT_T1D7_2022",
+    "conteudo": "<p>Um <em>designer </em>elaborou o logotipo de uma nova marca a partir da criação inicial de um hexágono regular em um plano cartesiano. Posteriormente, ele ampliou o logotipo em duas vezes para criar uma figura composta, conforme representa a imagem, que traz também algumas medidas do primeiro hexágono criado pelo <em>designer.</em></p><p><br></p><p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/af89f67d-0400-43b5-a7e8-201b18550749/94c878f9-3d3b-44ef-ae9d-fe2f663b622e.png\"></p><p><br></p><p>As medidas L e A demarcadas no hexágono maior são de, respectivamente,</p>",
+    "a": 1.6405,
+    "b": 0.7147,
+    "c": 0.1975,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "6d75750f-a1cd-454e-be62-41210e4d1f13",
+        "conteudo": "<p>8 e 120°.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "d44fa95d-e235-4cfb-8f2f-bd9be3b78f40",
+        "conteudo": "<p>8 e 240°.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "4ef66e92-bb1f-4358-9a0d-67cc321bc9ef",
+        "conteudo": "<p>16 e 120°.</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "72785c90-0329-42d3-9ece-91d4a8604b39",
+        "conteudo": "<p>16 e 240°.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "c19e2f1e-2938-4f2e-9671-265ba489a756",
+    "codigo": "Q17_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p>Um torcedor encomendou um adesivo com a bandeira do seu Time do Coração para colar em seu carro. No momento da compra, ele preferiu que a parte colorida da bandeira, representada pelos triângulos <span class=\"ql-formula\" data-value=\"M_1RN_1\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>M</mi><mn>1</mn></msub><mi>R</mi><msub><mi>N</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\">M_1RN_1</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">M</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0077em;\">R</span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">N</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"M_2SN_2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>M</mi><mn>2</mn></msub><mi>S</mi><msub><mi>N</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">M_2SN_2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">M</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">N</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span> da figura​, fosse feita com um material cintilante que custa R$ 4,00 por cm².</p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/c19e2f1e-2938-4f2e-9671-265ba489a756/517a83f9-6b48-4a6a-a8f7-47e0ef466ac8.png\" width=\"439\"></p><p>Na bandeira do time:</p><ul><li><span class=\"ql-formula\" data-value=\"P\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>P</mi></mrow><annotation encoding=\"application/x-tex\">P</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6833em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.1389em;\">P</span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"Q \">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>Q</mi></mrow><annotation encoding=\"application/x-tex\">Q </annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8778em; vertical-align: -0.1944em;\"></span><span class=\"mord mathnormal\">Q</span></span></span></span></span>﻿</span> são os pontos médios dos lados <span class=\"ql-formula\" data-value=\"\\overline{AD}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mrow><mi>A</mi><mi>D</mi></mrow><mo stretchy=\"true\">‾</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\overline{AD}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8833em;\"></span><span class=\"mord overline\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8833em;\"><span class=\"\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">A</span><span class=\"mord mathnormal\" style=\"margin-right: 0.0278em;\">D</span></span></span><span class=\"\" style=\"top: -3.8033em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"overline-line\" style=\"border-bottom-width: 0.04em;\"></span></span></span></span></span></span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"\\overline{BC}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mrow><mi>B</mi><mi>C</mi></mrow><mo stretchy=\"true\">‾</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\overline{BC}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8833em;\"></span><span class=\"mord overline\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8833em;\"><span class=\"\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0715em;\">BC</span></span></span><span class=\"\" style=\"top: -3.8033em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"overline-line\" style=\"border-bottom-width: 0.04em;\"></span></span></span></span></span></span></span></span></span></span>﻿</span> do retângulo <span class=\"ql-formula\" data-value=\"ABCD\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>A</mi><mi>B</mi><mi>C</mi><mi>D</mi></mrow><annotation encoding=\"application/x-tex\">ABCD</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6833em;\"></span><span class=\"mord mathnormal\">A</span><span class=\"mord mathnormal\" style=\"margin-right: 0.0715em;\">BC</span><span class=\"mord mathnormal\" style=\"margin-right: 0.0278em;\">D</span></span></span></span></span>﻿</span>, respectivamente.</li><li><span class=\"ql-formula\" data-value=\"R\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>R</mi></mrow><annotation encoding=\"application/x-tex\">R</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6833em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0077em;\">R</span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"S\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>S</mi></mrow><annotation encoding=\"application/x-tex\">S</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6833em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">S</span></span></span></span></span>﻿</span> são os pontos médios dos lados <span class=\"ql-formula\" data-value=\"\\overline{AB}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mrow><mi>A</mi><mi>B</mi></mrow><mo stretchy=\"true\">‾</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\overline{AB}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8833em;\"></span><span class=\"mord overline\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8833em;\"><span class=\"\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">A</span><span class=\"mord mathnormal\" style=\"margin-right: 0.0502em;\">B</span></span></span><span class=\"\" style=\"top: -3.8033em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"overline-line\" style=\"border-bottom-width: 0.04em;\"></span></span></span></span></span></span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\" \\overline{DC}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mrow><mi>D</mi><mi>C</mi></mrow><mo stretchy=\"true\">‾</mo></mover></mrow><annotation encoding=\"application/x-tex\"> \\overline{DC}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8833em;\"></span><span class=\"mord overline\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8833em;\"><span class=\"\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0278em;\">D</span><span class=\"mord mathnormal\" style=\"margin-right: 0.0715em;\">C</span></span></span><span class=\"\" style=\"top: -3.8033em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"overline-line\" style=\"border-bottom-width: 0.04em;\"></span></span></span></span></span></span></span></span></span></span>﻿</span>, respectivamente.</li><li><span class=\"ql-formula\" data-value=\"M_1\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>M</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\">M_1</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">M</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span>​, <span class=\"ql-formula\" data-value=\"M_2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>M</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">M_2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">M</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span>​, <span class=\"ql-formula\" data-value=\"N_1\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>N</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\">N_1</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">N</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"N_2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>N</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">N_2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">N</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span> são os pontos médios dos segmentos aos quais pertencem no quadrilátero <span class=\"ql-formula\" data-value=\"PRQS\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>P</mi><mi>R</mi><mi>Q</mi><mi>S</mi></mrow><annotation encoding=\"application/x-tex\">PRQS</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8778em; vertical-align: -0.1944em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">PRQS</span></span></span></span></span>﻿</span>.</li></ul><p><br></p><p>Qual será o valor total pago, em reais, pelo adesivo cintilante nas regiões coloridas da bandeira?</p>",
+    "a": 0.7575,
+    "b": 1.319,
+    "c": 0.1988,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "047a83f6-c8f6-4b54-a87c-180a8384932e",
+        "conteudo": "<p>R$ 60,00</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "2e566eff-8887-4eea-9801-7022d475849e",
+        "conteudo": "<p><span style=\"color: rgb(66, 66, 66);\">R$ 120,00</span></p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "f438a97a-fc06-48fd-86b4-df240dc72589",
+        "conteudo": "<p><span style=\"color: rgb(66, 66, 66);\">R$ 169,00</span></p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "aa891708-d82c-458c-918f-3288874b7c05",
+        "conteudo": "<p><span style=\"color: rgb(66, 66, 66);\">R$ 240,00</span></p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "70ea8da1-51ac-4418-98f7-27992062bbb8",
+    "codigo": "Q19_SAEB_SOMA_9ano_MT_T2D14_2022",
+    "conteudo": "<p>Joana é uma cozinheira que faz bolos. Para uma nova receita, ela abre uma caixa de leite de 1 litro e preenche completamente um copo cilíndrico com as dimensões esquematizadas na imagem.</p><p>Considere <span class=\"ql-formula\" data-value=\"\\pi=3\" data-id=\"formula-2025-05-07T16:49:55.887Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>π</mi><mo>=</mo><mn>3</mn></mrow><annotation encoding=\"application/x-tex\">\\pi=3</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">π</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">3</span></span></span></span></span>﻿</span><span class=\"ql-formula\" data-value=\"\\pi=3\" data-id=\"formula-2025-05-07T16:49:55.887Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>π</mi><mo>=</mo><mn>3</mn></mrow><annotation encoding=\"application/x-tex\">\\pi=3</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.4306em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0359em;\">π</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">3</span></span></span></span></span>﻿</span>.</p><p>Após Joana fazer isso, qual volume de leite sobra na caixa?</p>",
+    "a": 1.5583,
+    "b": 2.1854,
+    "c": 0.1198,
+    "textosBase": [
+      {
+        "id": "62aebb39-c603-46f5-9047-35d66dc47f34",
+        "titulo": "",
+        "conteudo": "<p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/textos-base/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/10725bfd-0900-402f-a734-508ece02c4d4/4413a153-f9c1-48a4-a313-3ba1668e0742.png\"></p>",
+        "referencia": "FREEPIK. Maquete de tijolo de leite. Disponível em: https://br.freepik.com/psd-gratuitas/maquete-de-tijolo-de-leite_18844133.htm#query=milk%20box&position=0&from_view=search. Acesso em: 18 jul. 2022."
+      }
+    ],
+    "alternativas": [
+      {
+        "id": "df42643d-d95a-4fd9-90b2-27f4158849c3",
+        "conteudo": "<p>324 mL.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "cf2c09a3-5b65-4edb-b2e2-8b43da5e3d30",
+        "conteudo": "<p>432 mL.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "468ecb73-5d3e-4133-9252-49bb9232b81c",
+        "conteudo": "<p>568 mL.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "fa418336-cecb-49d4-9b44-2add6e93e751",
+        "conteudo": "<p>676 mL.</p>",
+        "ordem": 4,
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "6dde908b-940f-4aa1-9862-2ecb6984259e",
+    "codigo": "Q13_SAEB_SOMA_9ano_MT_T3D20_2022",
+    "conteudo": "<p>Durante certo dia de inverno, em uma cidade da região temperada do globo, a temperatura variou entre -5 °C e -16 °C. Já em certo dia de outono dessa mesma cidade, os valores de temperatura subiram, passando para mínima de -1 °C e máxima de 12 °C.</p><p><br></p><p>A partir desses dados, a diferença absoluta entre as amplitudes térmicas registradas nesses dois dias foi de</p>",
+    "a": 1.9285,
+    "b": 1.4161,
+    "c": 0.1729,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "cbe495ee-bfcf-4e1b-8437-a6c655d15b61",
+        "conteudo": "<p>0 °C.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "e6d3f085-b963-4f84-a261-ebc50395aac6",
+        "conteudo": "<p>2 °C.</p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "9ed0a99a-7ce4-44b4-bc06-26a21971f317",
+        "conteudo": "<p>10 °C.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "05b83a0e-5308-46b0-84f4-669a06e92bbc",
+        "conteudo": "<p>13 °C.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "9d964de4-5849-4bfe-b2c5-30753c147109",
+    "codigo": "Q08_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p>Um artesão está criando uma luminária em formato de prisma com base hexagonal. Para garantir a estabilidade e evitar que a luminária balance, ele precisa colocar um suporte em cada vértice do prisma. </p><p>Quantos suportes ele precisará instalar ao todo?</p>",
+    "a": 0.6979,
+    "b": 1.103,
+    "c": 0.2003,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "52b249dc-04a7-48b5-88f1-866ca628b60c",
+        "conteudo": "<p>7</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "bbf77a2c-337f-4da5-a2a5-239050b284c0",
+        "conteudo": "<p>8</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "2d967df9-6b10-4e12-b17b-fd65fbeefac6",
+        "conteudo": "<p>12</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "b8b82e1a-8e96-49fa-a240-cdcff7566630",
+        "conteudo": "<p>18</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "bfbf0964-782a-4263-84da-34a80e1363eb",
+    "codigo": "Q01_SAEB_SOMA_9ano_MT_T3D27_2022",
+    "conteudo": "<p>Em um plano cartesiano, a distância D entre dois pontos pode ser calculada a partir da expressão:</p><p><br></p><p class=\"ql-align-center\"><span class=\"ql-formula\" data-value=\"D=\\sqrt{d_{x}^{2}+d_{y}^{2}}\" data-id=\"formula-2025-07-15T18:44:10.921Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>D</mi><mo>=</mo><msqrt><mrow><msubsup><mi>d</mi><mi>x</mi><mn>2</mn></msubsup><mo>+</mo><msubsup><mi>d</mi><mi>y</mi><mn>2</mn></msubsup></mrow></msqrt></mrow><annotation encoding=\"application/x-tex\">D=\\sqrt{d_{x}^{2}+d_{y}^{2}}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6833em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0278em;\">D</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.84em; vertical-align: -0.6765em;\"></span><span class=\"mord sqrt\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.1635em;\"><span class=\"svg-align\" style=\"top: -3.8em;\"><span class=\"pstrut\" style=\"height: 3.8em;\"></span><span class=\"mord\" style=\"padding-left: 1em;\"><span class=\"mord\"><span class=\"mord mathnormal\">d</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.7401em;\"><span class=\"\" style=\"top: -2.453em; margin-left: 0em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">x</span></span></span></span><span class=\"\" style=\"top: -2.989em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.247em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">d</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.7401em;\"><span class=\"\" style=\"top: -2.453em; margin-left: 0em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0359em;\">y</span></span></span></span><span class=\"\" style=\"top: -2.989em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3831em;\"><span class=\"\"></span></span></span></span></span></span></span></span><span class=\"\" style=\"top: -3.1235em;\"><span class=\"pstrut\" style=\"height: 3.8em;\"></span><span class=\"hide-tail\" style=\"min-width: 1.02em; height: 1.88em;\"><svg width=\"400em\" height=\"1.88em\" viewBox=\"0 0 400000 1944\" preserveAspectRatio=\"xMinYMin slice\"><path d=\"M983 90\nl0 -0\nc4,-6.7,10,-10,18,-10 H400000v40\nH1013.1s-83.4,268,-264.1,840c-180.7,572,-277,876.3,-289,913c-4.7,4.7,-12.7,7,-24,7\ns-12,0,-12,0c-1.3,-3.3,-3.7,-11.7,-7,-25c-35.3,-125.3,-106.7,-373.3,-214,-744\nc-10,12,-21,25,-33,39s-32,39,-32,39c-6,-5.3,-15,-14,-27,-26s25,-30,25,-30\nc26.7,-32.7,52,-63,76,-91s52,-60,52,-60s208,722,208,722\nc56,-175.3,126.3,-397.3,211,-666c84.7,-268.7,153.8,-488.2,207.5,-658.5\nc53.7,-170.3,84.5,-266.8,92.5,-289.5z\nM1001 80h400000v40h-400000z\"></path></svg></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.6765em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span>﻿</span> ,</p><p><br></p><p>em que <span class=\"ql-formula\" data-value=\"d_{x}\" data-id=\"formula-2025-07-15T18:44:10.921Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>d</mi><mi>x</mi></msub></mrow><annotation encoding=\"application/x-tex\">d_{x}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8444em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">d</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.1514em;\"><span class=\"\" style=\"top: -2.55em; margin-left: 0em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">x</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"d_{y}\" data-id=\"formula-2025-07-15T18:44:10.921Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>d</mi><mi>y</mi></msub></mrow><annotation encoding=\"application/x-tex\">d_{y}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.9805em; vertical-align: -0.2861em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">d</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.1514em;\"><span class=\"\" style=\"top: -2.55em; margin-left: 0em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.0359em;\">y</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.2861em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span> correspondem, respectivamente, à diferença entre os valores de abscissa e de ordenada desses pontos.</p><p><br></p><p>Sendo assim, qual é a distância aproximada entre duas cidades representadas em um plano cartesiano pelos pontos A (5, 5) e B (10, 10)?</p>",
+    "a": 0.7728,
+    "b": 3.8047,
+    "c": 0.1736,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "f77b43e1-1db5-485e-b9c4-685dd6e8f575",
+        "conteudo": "<p>5,0.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "aacd389b-4eca-421c-9e8a-7c857bf3ed29",
+        "conteudo": "<p>6,9.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "83f7cc39-b0f1-495d-b80b-ad5471bc45a4",
+        "conteudo": "<p>7,1.</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "bc223754-0dc5-48dd-a457-21028ce2c546",
+        "conteudo": "<p>10,0.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "5aa61fb8-94f1-4022-a7b9-35f66f8c409f",
+    "codigo": "Q07_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p>Observe a expressão algébrica:</p><p class=\"ql-align-center\"><span class=\"ql-formula\" data-value=\"-x^2+8x-16\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>−</mo><mn>16</mn></mrow><annotation encoding=\"application/x-tex\">-x^2+8x-16</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8974em; vertical-align: -0.0833em;\"></span><span class=\"mord\">−</span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">8</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">−</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">16</span></span></span></span></span>﻿</span>  </p><p>Uma forma fatorada dessa expressão é </p>",
+    "a": 0.902,
+    "b": 1.3863,
+    "c": 0.2006,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "1a93b593-868a-4e17-868e-43d4ccaa9d54",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"(x+4)^2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo>+</mo><mn>4</mn><msup><mo stretchy=\"false\">)</mo><mn>2</mn></msup></mrow><annotation encoding=\"application/x-tex\">(x+4)^2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.0641em; vertical-align: -0.25em;\"></span><span class=\"mord\">4</span><span class=\"mclose\"><span class=\"mclose\">)</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "4f935d67-4aca-422b-89f9-95a35bcd3ec1",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"(x-4)^2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>4</mn><msup><mo stretchy=\"false\">)</mo><mn>2</mn></msup></mrow><annotation encoding=\"application/x-tex\">(x-4)^2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">−</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.0641em; vertical-align: -0.25em;\"></span><span class=\"mord\">4</span><span class=\"mclose\"><span class=\"mclose\">)</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "31ee3c77-ae8e-4b32-a20d-95f5e5b87eb6",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"-(x+4)^2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><mo stretchy=\"false\">(</mo><mi>x</mi><mo>+</mo><mn>4</mn><msup><mo stretchy=\"false\">)</mo><mn>2</mn></msup></mrow><annotation encoding=\"application/x-tex\">-(x+4)^2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord\">−</span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.0641em; vertical-align: -0.25em;\"></span><span class=\"mord\">4</span><span class=\"mclose\"><span class=\"mclose\">)</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "aa846d86-8fd8-464c-8ac4-9d8011001385",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"-(x-4)^2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><mo stretchy=\"false\">(</mo><mi>x</mi><mo>−</mo><mn>4</mn><msup><mo stretchy=\"false\">)</mo><mn>2</mn></msup></mrow><annotation encoding=\"application/x-tex\">-(x-4)^2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord\">−</span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">−</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.0641em; vertical-align: -0.25em;\"></span><span class=\"mord\">4</span><span class=\"mclose\"><span class=\"mclose\">)</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 4,
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "cd11d0e1-43ae-4abd-8c3a-3d34356c7e0f",
+    "codigo": "Q10_SAEB_SOMA_9ano_MT_T3D29_2022",
+    "conteudo": "<p>O morador de um apartamento, incomodado com a baixa vazão de água em seu chuveiro, contrata um encanador. Este consegue fazer com que a vazão aumente de 50 para 60 litros por minuto. Com isso, o morador, que não deseja que o valor de sua conta de água aumente, decide tomar banhos mais rápidos.</p><p>Se, antes da reforma, seus banhos costumavam durar em média 15 minutos, para que o valor da conta de água não aumente, o tempo de seus banhos deverá passar por uma redução de</p>",
+    "a": 1.0807,
+    "b": 2.2746,
+    "c": 0.1668,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "95add4cd-0a91-40c9-8ba3-882d9f027448",
+        "conteudo": "<p>2,5 minutos.</p>",
+        "ordem": 1,
+        "correta": true
+      },
+      {
+        "id": "4754797b-409d-4bfd-a0bf-b6d66adbab92",
+        "conteudo": "<p>3,0 minutos.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "a6fc79e6-e316-48bd-8bdb-8d805008618c",
+        "conteudo": "<p>10,0 minutos.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "3d234eb3-6b21-4193-b0c4-0549f6cc8ef0",
+        "conteudo": "<p>12,5 minutos.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "b2e106ea-20fe-43f2-8812-402bd3fa56f1",
+    "codigo": "Q03_SAEB_SOMA_9ano_MT_T2D13_2022",
+    "conteudo": "<p>A janela de uma casa é subdividida em quatro vidros de formato quadrado. Certo dia, uma bola fez com que um desses vidros se quebrasse, como mostra a figura a seguir, em que a parte hachurada representa a parte da janela que ficou sem vidro:</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/b2e106ea-20fe-43f2-8812-402bd3fa56f1/90da39a0-f654-46e3-aa12-9240de46c683.png\" width=\"290\"></p><p>Se B e C são os pontos médios, respectivamente, dos segmentos <span class=\"ql-formula\" data-value=\"\\overline{AE}\" data-id=\"formula-2025-08-30T14:19:51.292Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mrow><mi>A</mi><mi>E</mi></mrow><mo stretchy=\"true\">‾</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\overline{AE}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8833em;\"></span><span class=\"mord overline\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8833em;\"><span class=\"\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">A</span><span class=\"mord mathnormal\" style=\"margin-right: 0.0576em;\">E</span></span></span><span class=\"\" style=\"top: -3.8033em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"overline-line\" style=\"border-bottom-width: 0.04em;\"></span></span></span></span></span></span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"\\overline{EF}\" data-id=\"formula-2025-08-30T14:19:51.292Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mrow><mi>E</mi><mi>F</mi></mrow><mo stretchy=\"true\">‾</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\overline{EF}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8833em;\"></span><span class=\"mord overline\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8833em;\"><span class=\"\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1389em;\">EF</span></span></span><span class=\"\" style=\"top: -3.8033em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"overline-line\" style=\"border-bottom-width: 0.04em;\"></span></span></span></span></span></span></span></span></span></span>﻿</span>, a área de vidro que sobrou na janela é de</p>",
+    "a": 1.3993,
+    "b": 1.3299,
+    "c": 0.1963,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "1fe51a79-e420-4003-9168-6ea93010853a",
+        "conteudo": "<p>9.375,0 cm².</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "e1e11555-8054-4aa0-be2d-d27a661c578a",
+        "conteudo": "<p>8.750,0 cm².</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "216877f7-31a8-44b0-b036-13938a38aa4c",
+        "conteudo": "<p>8.437,5 cm².</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "18d33043-4e12-42dc-b59b-8005e1cbb386",
+        "conteudo": "<p>7.500,0 cm².</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "e8aed748-ea07-467f-8770-436b515d0a2e",
+    "codigo": "Q22_SAEB_SOMA_9ano_MT_2024",
+    "conteudo": "<p>Uma empresa utiliza a função de custo <span style=\"color: rgb(66, 66, 66);\"><span class=\"ql-formula\" data-value=\"C(d) = \\dfrac {3}{2}\\cdot d + 2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>C</mi><mo stretchy=\"false\">(</mo><mi>d</mi><mo stretchy=\"false\">)</mo><mo>=</mo><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mfrac><mn>3</mn><mn>2</mn></mfrac></mstyle><mo>⋅</mo><mi>d</mi><mo>+</mo><mn>2</mn></mrow><annotation encoding=\"application/x-tex\">C(d) = \\dfrac {3}{2}\\cdot d + 2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord mathnormal\" style=\"margin-right: 0.0715em;\">C</span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">d</span><span class=\"mclose\">)</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 2.0074em; vertical-align: -0.686em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.3214em;\"><span class=\"\" style=\"top: -2.314em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">2</span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.677em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">3</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.686em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">⋅</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.7778em; vertical-align: -0.0833em;\"></span><span class=\"mord mathnormal\">d</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">2</span></span></span></span></span>﻿</span>, dada em reais, para calcular o valor de uma entrega, em que <span class=\"ql-formula\" data-value=\"d\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>d</mi></mrow><annotation encoding=\"application/x-tex\">d</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6944em;\"></span><span class=\"mord mathnormal\">d</span></span></span></span></span>﻿</span> é a distância percorrida, em quilômetros. Na primeira entrega da semana, essa empresa realizou uma entrega de R$  41,00.</span></p><p>Qual foi a distância percorrida, em quilômetros, na primeira entrega da semana dessa empresa?</p>",
+    "a": 0.6052,
+    "b": 1.8971,
+    "c": 0.2063,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "3e9d3ce5-ae9b-4f58-9bf0-e114382d2eed",
+        "conteudo": "<p>13,0</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "71d090fe-92d7-4ebd-a184-100a20ddf54a",
+        "conteudo": "<p>26,0</p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "0201303b-2b1f-49ba-a501-dd66a3bb47f4",
+        "conteudo": "<p>58,5</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "4fe00ee9-a355-4eb8-8eef-c6d3b245584a",
+        "conteudo": "<p>63,5</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "0267ea32-2261-4f2b-8dbe-46cb808497df",
+    "codigo": "Q09_SAEB_SOMA_9ano_MT_T3D25_2022",
+    "conteudo": "<p>O professor de uma disciplina universitária calcula a média final de seus alunos a partir da relação:</p><p><br></p><p><span class=\"ql-formula\" data-value=\"M_{f}=\\frac{1}{5}\\cdot(N_{1}+2N_{2}+2N_{3})\" data-id=\"formula-2025-07-15T18:30:05.405Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>M</mi><mi>f</mi></msub><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>⋅</mo><mo stretchy=\"false\">(</mo><msub><mi>N</mi><mn>1</mn></msub><mo>+</mo><mn>2</mn><msub><mi>N</mi><mn>2</mn></msub><mo>+</mo><mn>2</mn><msub><mi>N</mi><mn>3</mn></msub><mo stretchy=\"false\">)</mo></mrow><annotation encoding=\"application/x-tex\">M_{f}=\\frac{1}{5}\\cdot(N_{1}+2N_{2}+2N_{3})</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.9694em; vertical-align: -0.2861em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">M</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3361em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\" style=\"margin-right: 0.1076em;\">f</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.2861em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1.1901em; vertical-align: -0.345em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8451em;\"><span class=\"\" style=\"top: -2.655em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">5</span></span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.394em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.345em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">⋅</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">N</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\">2</span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">N</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mord\">2</span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">N</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">3</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mclose\">)</span></span></span></span></span>﻿</span>, em que <span class=\"ql-formula\" data-value=\"N_{1}\" data-id=\"formula-2025-07-15T18:30:05.405Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>N</mi><mn>1</mn></msub></mrow><annotation encoding=\"application/x-tex\">N_{1}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">N</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">1</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span>, <span class=\"ql-formula\" data-value=\"N_{2}\" data-id=\"formula-2025-07-15T18:30:05.405Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>N</mi><mn>2</mn></msub></mrow><annotation encoding=\"application/x-tex\">N_{2}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">N</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">2</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"N_{3}\" data-id=\"formula-2025-07-15T18:30:05.405Z\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>N</mi><mn>3</mn></msub></mrow><annotation encoding=\"application/x-tex\">N_{3}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.109em;\">N</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3011em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.109em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">3</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span> são as notas obtidas, respectivamente, na primeira, segunda e terceira avaliações aplicadas ao longo do semestre.</p><p><br></p><p>As notas obtidas por uma aluna nessas avaliações estão representadas na tabela.</p><p><br></p><p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/0267ea32-2261-4f2b-8dbe-46cb808497df/5f28432c-d145-4f3e-ae2c-cd750ad42630.png\"></p><p><br></p><p>Considerando que o professor arredonda a nota para o valor decimal mais próximo, qual foi a média obtida pela aluna nessa disciplina?</p>",
+    "a": 0.2935,
+    "b": 3.0909,
+    "c": 0.2146,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "ba25da67-1992-4036-8dd2-914ff16e3814",
+        "conteudo": "<p>7,0</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "47867a9b-43d8-411a-9605-6c53851615da",
+        "conteudo": "<p>7,1</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "0fd59a71-b641-43e0-a17f-59399e784a75",
+        "conteudo": "<p>7,2</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "8b854c00-0607-4482-b09a-b2b1b53508ff",
+        "conteudo": "<p>7,6</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "8e9db62a-7d8e-4a47-9048-51a0dc553ed1",
+    "codigo": "Q16_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p>Dada a operação:</p><p class=\"ql-align-center\"><span class=\"ql-formula\" data-value=\"-82 \\div (-16)\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><mn>82</mn><mo>÷</mo><mo stretchy=\"false\">(</mo><mo>−</mo><mn>16</mn><mo stretchy=\"false\">)</mo></mrow><annotation encoding=\"application/x-tex\">-82 \\div (-16)</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">−</span><span class=\"mord\">82</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">÷</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 1em; vertical-align: -0.25em;\"></span><span class=\"mopen\">(</span><span class=\"mord\">−</span><span class=\"mord\">16</span><span class=\"mclose\">)</span></span></span></span></span>﻿</span> </p><p>Qual é o seu resultado?</p>",
+    "a": 1.8547,
+    "b": -0.2579,
+    "c": 0.1941,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "18594089-c270-4d3f-87c5-02ae6ac7d354",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"-5,2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><mn>5</mn><mo separator=\"true\">,</mo><mn>2</mn></mrow><annotation encoding=\"application/x-tex\">-5,2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8389em; vertical-align: -0.1944em;\"></span><span class=\"mord\">−</span><span class=\"mord\">5</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">2</span></span></span></span></span>﻿</span> </p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "7b58724a-d8db-48f0-a51a-3f24f25c1b27",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"+5,2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>+</mo><mn>5</mn><mo separator=\"true\">,</mo><mn>2</mn></mrow><annotation encoding=\"application/x-tex\">+5,2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8389em; vertical-align: -0.1944em;\"></span><span class=\"mord\">+</span><span class=\"mord\">5</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">2</span></span></span></span></span>﻿</span></p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "2916624d-90f9-4c29-bdb1-18bb5c18cdff",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"-5,125\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><mn>5</mn><mo separator=\"true\">,</mo><mn>125</mn></mrow><annotation encoding=\"application/x-tex\">-5,125</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8389em; vertical-align: -0.1944em;\"></span><span class=\"mord\">−</span><span class=\"mord\">5</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">125</span></span></span></span></span>﻿</span> </p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "443cc2dd-c21f-4036-8c59-1b6aa26268b6",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"+5,125\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>+</mo><mn>5</mn><mo separator=\"true\">,</mo><mn>125</mn></mrow><annotation encoding=\"application/x-tex\">+5,125</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8389em; vertical-align: -0.1944em;\"></span><span class=\"mord\">+</span><span class=\"mord\">5</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">125</span></span></span></span></span>﻿</span></p>",
+        "ordem": 4,
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "ff441f8f-de5d-4421-9b36-66038ee1ee73",
+    "codigo": "Q05_SAEB_SOMA_9ano_MT_T4D36_2022",
+    "conteudo": "<p>Uma instituição recolhe doações de alimentos e os destina a pessoas em situação de rua. Em certo ano, essa instituição conseguiu arrecadar o total de 2 toneladas de alimentos.</p><p>O gráfico mostra como se deu essa arrecadação ao longo dos diferentes trimestres.</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/ff441f8f-de5d-4421-9b36-66038ee1ee73/646c8a03-2e2f-4192-bd0c-3dd1deacc782.png\"></p><p>Quantos quilogramas de alimento, aproximadamente, a instituição conseguiu arrecadar ao longo da primeira metade do ano?</p>",
+    "a": 0.96,
+    "b": -0.3514,
+    "c": 0.1913,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "814e9610-aee3-4805-8b6e-e494f2bc59eb",
+        "conteudo": "<p>500 </p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "f4d1af8a-b4b4-4bc3-98b7-b76081fe9b08",
+        "conteudo": "<p>750 </p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "8b7b6041-87c6-410a-8943-bbc5644b4a81",
+        "conteudo": "<p>1 000 </p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "f9862dd1-b6d0-4de8-919e-305e93072229",
+        "conteudo": "<p>1 500</p>",
+        "ordem": 4,
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "848f552c-911c-4ac3-91ca-7bae0c311753",
+    "codigo": "Q05_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p>Será publicada uma notícia no jornal sobre uma pessoa que ganhou exatamente 5 009 000 reais na loteria. Para facilitar a compreensão dos leitores, esse valor será arredondado para o múltiplo da potência de dez mais próxima.</p><p>Qual é o valor aproximado do prêmio, em reais, que deve ser publicado na notícia?</p>",
+    "a": 1.3101,
+    "b": -1.0374,
+    "c": 0.2021,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "82096987-69fb-4d04-92a6-88fb5f7a7eea",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"5 \\cdot 10^6\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>5</mn><mo>⋅</mo><mn>1</mn><msup><mn>0</mn><mn>6</mn></msup></mrow><annotation encoding=\"application/x-tex\">5 \\cdot 10^6</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">5</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">⋅</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">6</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 1,
+        "correta": true
+      },
+      {
+        "id": "013fd03c-e62f-4487-9c95-0bc5676bb2d0",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"6 \\cdot 10^6\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>6</mn><mo>⋅</mo><mn>1</mn><msup><mn>0</mn><mn>6</mn></msup></mrow><annotation encoding=\"application/x-tex\">6 \\cdot 10^6</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">6</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">⋅</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">6</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "ad6b7410-ffbc-4efb-ae46-a09467176776",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"5 \\cdot 10^7\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>5</mn><mo>⋅</mo><mn>1</mn><msup><mn>0</mn><mn>7</mn></msup></mrow><annotation encoding=\"application/x-tex\">5 \\cdot 10^7</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">5</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">⋅</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">7</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "aefc5a2d-57cb-4543-8bb5-1c8ddce637e0",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"6 \\cdot 10^7\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>6</mn><mo>⋅</mo><mn>1</mn><msup><mn>0</mn><mn>7</mn></msup></mrow><annotation encoding=\"application/x-tex\">6 \\cdot 10^7</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">6</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">⋅</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">7</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "1fa98aff-1ca2-4386-8fac-7bceca33c00c",
+    "codigo": "Q14_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p class=\"ql-align-justify\">Pretende-se instalar uma linha de transmissão elétrica entre duas usinas, cujas posições estão indicadas em um plano cartesiano, no qual as unidades de medida são dadas em quilômetros.</p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/1fa98aff-1ca2-4386-8fac-7bceca33c00c/610cf8fc-6173-4d2c-ad0f-9bdcf9472483.png\" width=\"293\"></p><p>Desconsidere fatores geográficos e propriedades físicas.</p><p><br></p><p>Qual é o menor comprimento possível, em quilômetros, da linha de transmissão que pode ligar as usinas representadas?</p>",
+    "a": 1.3859,
+    "b": 1.2796,
+    "c": 0.2052,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "d32fe82d-cb5d-4703-960d-24f79ad5eb2e",
+        "conteudo": "<p>6</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "e50fd1d1-458a-4910-a683-04bd68acdbb8",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"6\\sqrt{2}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>6</mn><msqrt><mn>2</mn></msqrt></mrow><annotation encoding=\"application/x-tex\">6\\sqrt{2}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.04em; vertical-align: -0.1328em;\"></span><span class=\"mord\">6</span><span class=\"mord sqrt\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9072em;\"><span class=\"svg-align\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\" style=\"padding-left: 0.833em;\"><span class=\"mord\">2</span></span></span><span class=\"\" style=\"top: -2.8672em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"hide-tail\" style=\"min-width: 0.853em; height: 1.08em;\"><svg width=\"400em\" height=\"1.08em\" viewBox=\"0 0 400000 1080\" preserveAspectRatio=\"xMinYMin slice\"><path d=\"M95,702\nc-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14\nc0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54\nc44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10\ns173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429\nc69,-144,104.5,-217.7,106.5,-221\nl0 -0\nc5.3,-9.3,12,-14,20,-14\nH400000v40H845.2724\ns-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7\nc-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z\nM834 80h400000v40h-400000z\"></path></svg></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.1328em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span>﻿</span></p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "1cbc41b3-d147-4144-83da-cc5b5b2475ea",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"4\\sqrt{5}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>4</mn><msqrt><mn>5</mn></msqrt></mrow><annotation encoding=\"application/x-tex\">4\\sqrt{5}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 1.04em; vertical-align: -0.1328em;\"></span><span class=\"mord\">4</span><span class=\"mord sqrt\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.9072em;\"><span class=\"svg-align\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\" style=\"padding-left: 0.833em;\"><span class=\"mord\">5</span></span></span><span class=\"\" style=\"top: -2.8672em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"hide-tail\" style=\"min-width: 0.853em; height: 1.08em;\"><svg width=\"400em\" height=\"1.08em\" viewBox=\"0 0 400000 1080\" preserveAspectRatio=\"xMinYMin slice\"><path d=\"M95,702\nc-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14\nc0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54\nc44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10\ns173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429\nc69,-144,104.5,-217.7,106.5,-221\nl0 -0\nc5.3,-9.3,12,-14,20,-14\nH400000v40H845.2724\ns-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7\nc-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z\nM834 80h400000v40h-400000z\"></path></svg></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.1328em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "643f0b50-4815-4d6e-a000-97f291b4db5a",
+        "conteudo": "<p>12</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "4d9fa975-af2c-430f-ad09-845f1ed3dc75",
+    "codigo": "Q23_SAEB_SOMA_9ano_MT_T1D11_2022",
+    "conteudo": "<p>Um parque tem uma pista de corrida em formato de circunferência. Essa pista possui alguns caminhos e alguns trechos destinados a finalidades específicas, conforme ilustra a figura.</p><p><br></p><p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/4d9fa975-af2c-430f-ad09-845f1ed3dc75/a0ee300a-1d10-4058-9838-6c8cfafe9624.png\"></p><p>A região que representa uma corda da circunferência da pista é o</p>",
+    "a": 0.6061,
+    "b": 3.3305,
+    "c": 0.2482,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "52671eaf-46cf-4727-b328-36dbde2921e8",
+        "conteudo": "<p>caminho reservado para cachorros.</p>",
+        "ordem": 1,
+        "correta": true
+      },
+      {
+        "id": "36f46048-ad25-4934-984a-2d3fe9ccb1ce",
+        "conteudo": "<p>caminho até o cachorródromo.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "c2732c1e-ac93-472e-a038-3b7932a09752",
+        "conteudo": "<p>caminho até o centro da pista.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "54af1f1e-2b08-46a8-bade-99bc74f929e7",
+        "conteudo": "<p>trecho de terra.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "c9cd2379-20e6-4346-b097-88329bd6fcae",
+    "codigo": "Q05_SAEB_SOMA_9ano_MT_2024",
+    "conteudo": "<p>Um artesão está desenvolvendo a maquete de um edifício real de 50 metros de altura na seguinte escala: cada 5 cm na maquete correspondem a 4 m na realidade. </p><p>Qual será a altura, em centímetros, do edifício na maquete?</p>",
+    "a": 1.285,
+    "b": 1.7915,
+    "c": 0.1697,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "3a59a230-89bd-4a8f-bcd1-f2615e263492",
+        "conteudo": "<p>2,5</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "542f6d60-c870-4f57-8136-35478daea8a8",
+        "conteudo": "<p>10,0</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "f5264f4a-fe5b-4f93-b762-7e3d0019f9f7",
+        "conteudo": "<p>40,0</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "8ddc920a-da13-42fe-bcca-b51e4e0b57d0",
+        "conteudo": "<p>62,5</p>",
+        "ordem": 4,
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "9bb65a4c-7267-4a68-9018-8d356ebf2542",
+    "codigo": "Q17_SAEB_SOMA_9ano_MT_T1D10_2022",
+    "conteudo": "<p>A casa do sítio de Joel fica situada em um ponto B e, a partir dele, existem dois caminhos para se chegar à estrada mais próxima: seguindo para o Norte, percorrem-se 9 km até se atingir a estrada no ponto A; seguindo para o Oeste, percorrem-se 12 km para se atingir a estrada no ponto C. O segmento <span class=\"ql-formula\" data-value=\"\\overline{BD}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mrow><mi>B</mi><mi>D</mi></mrow><mo stretchy=\"true\">‾</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\overline{BD}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8833em;\"></span><span class=\"mord overline\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8833em;\"><span class=\"\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0502em;\">B</span><span class=\"mord mathnormal\" style=\"margin-right: 0.0278em;\">D</span></span></span><span class=\"\" style=\"top: -3.8033em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"overline-line\" style=\"border-bottom-width: 0.04em;\"></span></span></span></span></span></span></span></span></span></span>﻿</span> não é um trecho que pode ser percorrido, mas representa a menor distância entre a casa de Joel e a estrada.</p><p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/9bb65a4c-7267-4a68-9018-8d356ebf2542/db5daa34-a0cc-479e-9eb8-2df678afc310.png\"></p><p>Qual o comprimento <span class=\"ql-formula\" data-value=\"d\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>d</mi></mrow><annotation encoding=\"application/x-tex\">d</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6944em;\"></span><span class=\"mord mathnormal\">d</span></span></span></span></span>﻿</span> do segmento <span class=\"ql-formula\" data-value=\"\\overline{BD}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mover accent=\"true\"><mrow><mi>B</mi><mi>D</mi></mrow><mo stretchy=\"true\">‾</mo></mover></mrow><annotation encoding=\"application/x-tex\">\\overline{BD}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8833em;\"></span><span class=\"mord overline\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8833em;\"><span class=\"\" style=\"top: -3em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.0502em;\">B</span><span class=\"mord mathnormal\" style=\"margin-right: 0.0278em;\">D</span></span></span><span class=\"\" style=\"top: -3.8033em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"overline-line\" style=\"border-bottom-width: 0.04em;\"></span></span></span></span></span></span></span></span></span></span>﻿</span>?</p>",
+    "a": 1.0781,
+    "b": -0.3765,
+    "c": 0.1998,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "f2815fe9-0afa-4abe-a43c-2001a7a228f0",
+        "conteudo": "<p>15,0 km.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "c1c8fafd-2eb7-46c5-ba8a-30764bd7821a",
+        "conteudo": "<p>12,5 km.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "8d74c45a-bbec-4fa9-996f-4aec4918396f",
+        "conteudo": "<p>7,2 km.</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "81202eab-1632-4933-8577-12a3d56fab3e",
+        "conteudo": "<p>3,0 km.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "6b79a5e8-8b0d-497e-bb72-91e6b337a6ba",
+    "codigo": "Q26_SAEB_SOMA_9ano_MT_2024",
+    "conteudo": "<p>Um casal decide visitar uma galeria de compras com diversos corredores interligados. Na entrada da galeria, eles têm o objetivo de chegar à praça de alimentação. A imagem a seguir mostra a disposição dos corredores e suas bifurcações, representadas por bolinhas preenchidas.</p><p><br></p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/6b79a5e8-8b0d-497e-bb72-91e6b337a6ba/66ddfd15-3a6e-4d52-898d-dea9870f01fe.png\" width=\"340\"></p><p><br></p><p>Como não conhecem o local, em cada bifurcação eles escolhem aleatoriamente um dos caminhos disponíveis, com igual probabilidade, seguindo apenas os sentidos indicados pelas setas.</p><p><br></p><p>Qual é a probabilidade de o casal chegar à praça de alimentação?</p>",
+    "a": 0.7454,
+    "b": 3.6607,
+    "c": 0.1739,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "a426f6c8-d8ba-4c9e-8d57-fd50146c0e8d",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\dfrac{1}{5}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mfrac><mn>1</mn><mn>5</mn></mfrac></mstyle></mrow><annotation encoding=\"application/x-tex\">\\dfrac{1}{5}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 2.0074em; vertical-align: -0.686em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.3214em;\"><span class=\"\" style=\"top: -2.314em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">5</span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.677em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.686em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "ac517ff1-105a-40d0-8720-e9301e947f04",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\dfrac{1}{4}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mfrac><mn>1</mn><mn>4</mn></mfrac></mstyle></mrow><annotation encoding=\"application/x-tex\">\\dfrac{1}{4}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 2.0074em; vertical-align: -0.686em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.3214em;\"><span class=\"\" style=\"top: -2.314em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">4</span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.677em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.686em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "310eda45-f77d-4b8f-9cfd-a08968d69747",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\dfrac{1}{3}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mfrac><mn>1</mn><mn>3</mn></mfrac></mstyle></mrow><annotation encoding=\"application/x-tex\">\\dfrac{1}{3}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 2.0074em; vertical-align: -0.686em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.3214em;\"><span class=\"\" style=\"top: -2.314em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">3</span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.677em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.686em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "837c9e13-860d-4ab2-8f98-428fe50f1b5b",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\dfrac{1}{2}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle></mrow><annotation encoding=\"application/x-tex\">\\dfrac{1}{2}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 2.0074em; vertical-align: -0.686em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.3214em;\"><span class=\"\" style=\"top: -2.314em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">2</span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.677em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.686em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "fdd8746b-3cd5-4ef3-b06c-9c373196b37d",
+    "codigo": "Q21_SAEB_SOMA_9ano_MT_2024",
+    "conteudo": "<p>José, o proprietário do lote B, tomou a decisão de adquirir os lotes A e C, para aumentar seu terreno. Todos esses lotes têm frente para uma estrada e uma cerca que os separa de uma represa no fundo, como mostrado na imagem.</p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/fdd8746b-3cd5-4ef3-b06c-9c373196b37d/e98223ed-ea0d-40bd-84a7-922cecf7935c.png\" width=\"362\"></p><p>Como o lote B já tem um muro na frente, José planeja construir muros na frente dos lotes A e C para ficarem parecidos.</p><p>Qual será o comprimento total, em metros, dos muros que José irá construir?</p>",
+    "a": 0.6293,
+    "b": 3.4357,
+    "c": 0.1972,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "bd95686b-6e65-40e0-a902-591b219ae26f",
+        "conteudo": "<p>17</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "043f4789-c28b-422e-991f-88ff64f5d2fb",
+        "conteudo": "<p>19</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "47e8287c-d24b-4130-9910-5f8ee72b6e57",
+        "conteudo": "<p>25</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "d57596fc-1945-41cb-9561-83732c178095",
+        "conteudo": "<p>28</p>",
+        "ordem": 4,
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "dd05e896-d1e8-4a01-898d-a1dc32467361",
+    "codigo": "Q03_SAEB_SOMA_9ano_MT_2024",
+    "conteudo": "<p class=\"ql-align-justify\">A temperatura mínima de uma cidade em um certo dia, em graus Celsius, está representada na reta pelo ponto P.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/dd05e896-d1e8-4a01-898d-a1dc32467361/d5aea34c-3912-40ef-82d3-8f0a9f9e700d.png\"></p><p class=\"ql-align-justify\"><br></p><p>Qual foi a temperatura mínima, em graus Celsius, registrada nesse dia?</p>",
+    "a": 1.3056,
+    "b": -0.929,
+    "c": 0.2027,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "df2188d3-688f-41d6-ba29-e1adb7c33843",
+        "conteudo": "<p class=\"ql-align-justify\"><span class=\"ql-formula\" data-value=\"-2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><mn>2</mn></mrow><annotation encoding=\"application/x-tex\">-2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">−</span><span class=\"mord\">2</span></span></span></span></span>﻿</span> </p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "39e7db2d-011f-4d2f-a3d1-93daedd024f6",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"-5\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><mn>5</mn></mrow><annotation encoding=\"application/x-tex\">-5</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">−</span><span class=\"mord\">5</span></span></span></span></span>﻿</span> </p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "fa5f75a1-d5a8-401d-9624-f5cc4ae72322",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"-6\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><mn>6</mn></mrow><annotation encoding=\"application/x-tex\">-6</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">−</span><span class=\"mord\">6</span></span></span></span></span>﻿</span> </p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "e77c1601-7b03-4738-84da-7273d6ce3113",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"-7\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><mn>7</mn></mrow><annotation encoding=\"application/x-tex\">-7</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">−</span><span class=\"mord\">7</span></span></span></span></span>﻿</span> </p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "d774cad3-753a-4349-a7a2-a242d90f9f45",
+    "codigo": "Q22_SAEB_SOMA_9ano_MT_T3D28_2022",
+    "conteudo": "<p>Devido a alta dos preços, de janeiro a junho de 2022, as famílias passaram a gastar mais para comprar os mesmos bens de consumo, contudo, segundo a notícia, esse aumento foi distinto para as diferentes classes.</p><p>Uma compra no valor de R$1.000,00 feita por uma família de renda alta, nesse período, passou para o valor <span class=\"ql-formula\" data-value=\"P_{a}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>P</mi><mi>a</mi></msub></mrow><annotation encoding=\"application/x-tex\">P_{a}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1389em;\">P</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.1514em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1389em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">a</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span>, enquanto uma compra no valor de R$1.000,00 feita por uma família de renda muito baixa passou para o valor <span class=\"ql-formula\" data-value=\"P_{b}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>P</mi><mi>b</mi></msub></mrow><annotation encoding=\"application/x-tex\">P_{b}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1389em;\">P</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3361em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1389em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">b</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span>.</p><p>A diferença <span class=\"ql-formula\" data-value=\"P_{a}-P_{b}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msub><mi>P</mi><mi>a</mi></msub><mo>−</mo><msub><mi>P</mi><mi>b</mi></msub></mrow><annotation encoding=\"application/x-tex\">P_{a}-P_{b}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1389em;\">P</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.1514em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1389em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">a</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">−</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8333em; vertical-align: -0.15em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\" style=\"margin-right: 0.1389em;\">P</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.3361em;\"><span class=\"\" style=\"top: -2.55em; margin-left: -0.1389em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mathnormal mtight\">b</span></span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.15em;\"><span class=\"\"></span></span></span></span></span></span></span></span></span></span>﻿</span> é de  </p>",
+    "a": 0.8914,
+    "b": 1.5766,
+    "c": 0.2265,
+    "textosBase": [
+      {
+        "id": "075c01da-591b-4f33-b9cf-6833468abe86",
+        "titulo": "Inflação por faixa de renda – Junho/2022",
+        "conteudo": "<p><span style=\"color: rgb(20, 20, 18);\">​Em junho, os dados do Indicador Ipea de Inflação por Faixa de Renda mostram que a inflação variou entre 0,61% para o segmento de renda muito baixa e 0,98% para a classe de renda alta. Com a incorporação deste resultado, no acumulado do ano, até junho, a inflação registra altas que variam de 5,43% (renda muito baixa) a 5,69% (renda alta). Já no acumulado em doze meses, à exceção da faixa de renda média-alta, com taxa de variação de 11,5%, todas as demais registram altas próximas a 12,0%.​​</span></p>",
+        "referencia": "LAMEIRAS, Maria Andreia P. Inflação por faixa de renda – Junho/2022. Disponível em: https://www.ipea.gov.br/cartadeconjuntura/index.php/category/inflacao/. Acesso em: 18 jul. 2022."
+      }
+    ],
+    "alternativas": [
+      {
+        "id": "9d5fde38-7434-44e6-b4ec-bbdc4e21198a",
+        "conteudo": "<p>R$3,70.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "151cabab-b488-4a2a-a593-7ad3b1b8b4c6",
+        "conteudo": "<p>R$2,60.</p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "7cbdce02-9d88-4376-9b32-bc556021dda5",
+        "conteudo": "<p>R$0,37.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "620d31f1-3fb2-484a-a3a6-40b461f3b5dd",
+        "conteudo": "<p>R$0,26.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "d2b537c8-1792-4e40-8278-a900d24412fe",
+    "codigo": "Q13_SAEB_SOMA_9ano_MT_2024",
+    "conteudo": "<p>Um navio tem sua rota monitorada por pontos em um plano cartesiano, onde cada unidade do plano corresponde a 100 km. Em uma rota específica, ele partiu do ponto A(1,3) e chegou ao ponto B(5,3) seguindo em linha reta.</p><p><br></p><p>Qual foi a distância total, em quilômetros, percorrida pelo navio nessa rota?</p>",
+    "a": 1.0142,
+    "b": 0.5556,
+    "c": 0.204,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "81b1270b-6f05-4277-884d-6ba0c19a8ed7",
+        "conteudo": "<p>300</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "a936b23b-5ba9-4c3f-9a72-6650d1812844",
+        "conteudo": "<p>400</p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "76e6e182-9a16-48f4-8192-78698020208a",
+        "conteudo": "<p>1 200</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "a48dbb98-954f-41e1-9d92-9c8bdf5ff8ee",
+        "conteudo": "<p>1 600</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "9a5537ed-fe5e-423a-b4f1-ab5f42eff957",
+    "codigo": "Q01_SAEB_SOMA_9ano_MT_2024",
+    "conteudo": "<p class=\"ql-align-justify\"><span style=\"color: rgb(66, 66, 66);\">A cobertura de um bolo é feita com <span class=\"ql-formula\" data-value=\"\\dfrac{3}{4}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mfrac><mn>3</mn><mn>4</mn></mfrac></mstyle></mrow><annotation encoding=\"application/x-tex\">\\dfrac{3}{4}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 2.0074em; vertical-align: -0.686em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.3214em;\"><span class=\"\" style=\"top: -2.314em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">4</span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.677em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">3</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.686em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> de xícara de glacê e para preparar uma xícara de glacê, é necessário <span class=\"ql-formula\" data-value=\"\\dfrac{1}{3}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mfrac><mn>1</mn><mn>3</mn></mfrac></mstyle></mrow><annotation encoding=\"application/x-tex\">\\dfrac{1}{3}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 2.0074em; vertical-align: -0.686em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.3214em;\"><span class=\"\" style=\"top: -2.314em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">3</span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.677em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.686em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> de xícara de açúcar. Uma pessoa deseja fazer a metade dessa cobertura. </span></p><p class=\"ql-align-justify\">Qual é a quantidade necessária de xícaras de açúcar para fazer o glacê para essa quantidade de cobertura?</p>",
+    "a": 0.8061,
+    "b": 3.5,
+    "c": 0.1702,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "99dd8c09-4c23-4522-87a6-6da045edd285",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\dfrac{1}{2}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle></mrow><annotation encoding=\"application/x-tex\">\\dfrac{1}{2}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 2.0074em; vertical-align: -0.686em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.3214em;\"><span class=\"\" style=\"top: -2.314em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">2</span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.677em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.686em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "2d88c8e9-bbab-4ce2-b50e-d64ea3e935e2",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\dfrac{1}{4}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mfrac><mn>1</mn><mn>4</mn></mfrac></mstyle></mrow><annotation encoding=\"application/x-tex\">\\dfrac{1}{4}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 2.0074em; vertical-align: -0.686em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.3214em;\"><span class=\"\" style=\"top: -2.314em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">4</span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.677em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.686em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "dfdcb06c-47cf-4b72-9a87-dbc52c08f700",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\dfrac{1}{8}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mfrac><mn>1</mn><mn>8</mn></mfrac></mstyle></mrow><annotation encoding=\"application/x-tex\">\\dfrac{1}{8}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 2.0074em; vertical-align: -0.686em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.3214em;\"><span class=\"\" style=\"top: -2.314em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">8</span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.677em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.686em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "8729e04d-38b3-493c-b217-99139c9e7689",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"\\dfrac{1}{16}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mfrac><mn>1</mn><mn>16</mn></mfrac></mstyle></mrow><annotation encoding=\"application/x-tex\">\\dfrac{1}{16}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 2.0074em; vertical-align: -0.686em;\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 1.3214em;\"><span class=\"\" style=\"top: -2.314em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">16</span></span></span><span class=\"\" style=\"top: -3.23em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"frac-line\" style=\"border-bottom-width: 0.04em;\"></span></span><span class=\"\" style=\"top: -3.677em;\"><span class=\"pstrut\" style=\"height: 3em;\"></span><span class=\"mord\"><span class=\"mord\">1</span></span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.686em;\"><span class=\"\"></span></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "e9f51b9c-22d9-4b83-b5c8-b7515eae3303",
+    "codigo": "Q25_SAEB_SOMA_9ano_MT_2024",
+    "conteudo": "<p>Uma marca de batons embala seus produtos em caixas com o seguinte formato:</p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/e9f51b9c-22d9-4b83-b5c8-b7515eae3303/25d0a505-89bb-46a5-bb5d-0652a2747a5a.png\" width=\"170\"></p><p>Uma possível planificação dessa caixa é</p>",
+    "a": 0.5499,
+    "b": 1.2678,
+    "c": 0.2032,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "792c5a47-e712-4c34-bb8f-c07a42521301",
+        "conteudo": "<p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/e9f51b9c-22d9-4b83-b5c8-b7515eae3303/163f81eb-13a5-49b9-9ec6-677912ff87ec.png\" style=\"cursor: nesw-resize;\" width=\"268\"></p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "d867651b-8c48-41cf-bb7d-a637481e354e",
+        "conteudo": "<p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/e9f51b9c-22d9-4b83-b5c8-b7515eae3303/abf321ed-31a6-4228-af23-aeae74a43c1f.png\" width=\"309\"></p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "334cad7b-4b11-400d-87a2-e0a684303b37",
+        "conteudo": "<p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/e9f51b9c-22d9-4b83-b5c8-b7515eae3303/2d682dfa-d0df-4271-bc67-bb51138cfe4c.png\" style=\"cursor: nesw-resize;\" width=\"442\"></p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "10dab2b3-93f9-4778-9c15-326df2f51647",
+        "conteudo": "<p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/e9f51b9c-22d9-4b83-b5c8-b7515eae3303/1f64f580-015d-43a4-97e5-3c85d932fd2b.png\" style=\"cursor: nesw-resize;\" width=\"453\"></p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "03e165f1-089e-43b7-bfa4-c1ea8a1a4962",
+    "codigo": "Q12_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p>Dada a equação polinomial de 2° grau:</p><p class=\"ql-align-center\"><span class=\"ql-formula\" data-value=\"x^2+2x-8\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>8</mn></mrow><annotation encoding=\"application/x-tex\">x^2+2x-8</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8974em; vertical-align: -0.0833em;\"></span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">+</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">2</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">−</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">8</span></span></span></span></span>﻿</span> <span class=\"ql-formula\" data-value=\"=0\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>=</mo><mn>0</mn></mrow><annotation encoding=\"application/x-tex\">=0</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.3669em;\"></span><span class=\"mrel\">=</span><span class=\"mspace\" style=\"margin-right: 0.2778em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">0</span></span></span></span></span>﻿</span> </p><p>Quais são suas raízes?</p>",
+    "a": 1.9708,
+    "b": 0.3792,
+    "c": 0.2002,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "4893e15e-2ef1-4543-96f3-7a5cc03de794",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"-8\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><mn>8</mn></mrow><annotation encoding=\"application/x-tex\">-8</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">−</span><span class=\"mord\">8</span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>2</mn></mrow><annotation encoding=\"application/x-tex\">2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">2</span></span></span></span></span>﻿</span>.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "00383652-6538-47d4-b027-eb476bf21c7a",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"-4\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mo>−</mo><mn>4</mn></mrow><annotation encoding=\"application/x-tex\">-4</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">−</span><span class=\"mord\">4</span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>2</mn></mrow><annotation encoding=\"application/x-tex\">2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">2</span></span></span></span></span>﻿</span>.</p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "58c62b76-4e8a-4f15-a1f7-5ea0d0773c07",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"2 \">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>2</mn></mrow><annotation encoding=\"application/x-tex\">2 </annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">2</span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"4\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>4</mn></mrow><annotation encoding=\"application/x-tex\">4</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">4</span></span></span></span></span>﻿</span>.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "5844c6df-3986-400a-aa40-2d5a4dfac711",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"6\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>6</mn></mrow><annotation encoding=\"application/x-tex\">6</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">6</span></span></span></span></span>﻿</span> e <span class=\"ql-formula\" data-value=\"8\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>8</mn></mrow><annotation encoding=\"application/x-tex\">8</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.6444em;\"></span><span class=\"mord\">8</span></span></span></span></span>﻿</span>.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "a3263e31-4bd8-459a-8627-c7d08f8e1811",
+    "codigo": "Q02_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p>Uma loja entrou em liquidação, oferecendo todos os produtos com o mesmo percentual de desconto. Um cliente comprou um par de botas que custava R$ 250,00 por R$ 180,00. Aproveitando a liquidação, ele decidiu comprar também um par de tênis, cujo preço original era R$ 200,00.</p><p><br></p><p>Com o desconto aplicado, qual foi o valor pago pelo cliente pelo par de tênis?</p>",
+    "a": 2.1293,
+    "b": 0.4452,
+    "c": 0.1885,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "e0e2e53a-660a-4b39-b40d-1c743aabbf92",
+        "conteudo": "<p>R$ 130,00</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "471f1f5c-46bb-4eb7-ab5f-8f0a4fcf4413",
+        "conteudo": "<p>R$ 140,00</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "9cf77036-fb50-431d-b9c8-d7e91772e441",
+        "conteudo": "<p>R$ 144,00</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "f97d507b-d934-404d-977a-e98d4d912bb9",
+        "conteudo": "<p>R$ 172,00</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "e427eeb4-74f0-4d26-90d2-ce87e861fb86",
+    "codigo": "Q10_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p>Um hospital está monitorando a ocupação de suas alas após uma expansão recente. Foram adicionadas quatro novas alas com o mesmo número de leitos que a ala principal. As frações representam a ocupação atual de cada ala:</p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/e427eeb4-74f0-4d26-90d2-ce87e861fb86/b01c830b-a202-4680-bce9-e95515c13d55.png\" style=\"cursor: nesw-resize;\" width=\"434\"></p><p>Qual ala tem a mesma ocupação atual que a ala principal?</p>",
+    "a": 1.5845,
+    "b": 0.0884,
+    "c": 0.1986,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "5858995f-ab95-4ade-99ac-874235317b92",
+        "conteudo": "<p>Ala A</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "4d451b5c-639d-4ac1-8c9e-7662724e6827",
+        "conteudo": "<p><span style=\"color: rgb(66, 66, 66);\">Ala B</span></p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "d6675132-b3d8-4bbe-aeac-d6e308ed407a",
+        "conteudo": "<p><span style=\"color: rgb(66, 66, 66);\">Ala C</span></p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "d7395e35-6254-45c5-950d-60d2bfb3670f",
+        "conteudo": "<p><span style=\"color: rgb(66, 66, 66);\">Ala D</span></p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "232a5d80-1e65-4245-80d2-cf1ae18951f6",
+    "codigo": "Q15_SAEB_SOMA_9ano_MT_2024",
+    "conteudo": "<p class=\"ql-align-justify\">Uma pessoa tinha R$ 12,50 e comprou um lanche que custou <span style=\"color: rgb(66, 66, 66);\">R$ </span>5,73. Para saber quanto sobrou de dinheiro, ela fez a subtração desses valores.</p><p><br></p><p class=\"ql-align-justify\">Qual foi o valor, em reais, encontrado por essa pessoa?</p>",
+    "a": 1.0495,
+    "b": 0.6494,
+    "c": 0.1911,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "a86b91b0-161c-4776-85e4-fafffc92571a",
+        "conteudo": "<p>4,48</p><p><br></p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "f8bd9aac-f532-489a-b0ca-a4a6dee94ac2",
+        "conteudo": "<p>6,77</p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "dd9811e0-4d9b-48d2-bf37-5cea67868536",
+        "conteudo": "<p>6,83</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "3cca668e-bc29-4813-a55d-a35c7e523a0c",
+        "conteudo": "<p>7,23</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "0f153995-4e2b-4fcd-9929-cf6e961dd362",
+    "codigo": "Q14_SAEB_SOMA_9ano_MT_T1D4_2022",
+    "conteudo": "<p>Uma criança brinca com peças geométricas para construir figuras, conforme a imagem, que representa um cavalo que essa criança construiu a partir das formas.</p><p><br></p><p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/0f153995-4e2b-4fcd-9929-cf6e961dd362/75eeb765-9cb8-436d-a310-e091b9f1158b.png\"></p><p>Os dois quadriláteros usados pela criança na figura têm propriedades semelhantes, a exemplo dos</p>",
+    "a": 1.076,
+    "b": 0.2636,
+    "c": 0.1975,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "3f5925fe-ccfa-4556-af48-2169e2cc020a",
+        "conteudo": "<p>lados de mesma medida, o que os classifica como losangos.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "a3fcf5f3-4eaf-48d5-8034-010c7a1228fb",
+        "conteudo": "<p>ângulos de mesma medida, o que os classifica como retângulos.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "c5f9dbb8-67d9-449e-b35b-281ae0df0272",
+        "conteudo": "<p>lados opostos paralelos, o que os classifica como paralelogramos.</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "add18db8-7c00-48f6-848c-7f1c9606ff0a",
+        "conteudo": "<p>lados e ângulos congruentes, o que os classifica como quadrados.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "cef92ddf-9da0-4df1-a9af-d64f075092fd",
+    "codigo": "Q13_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p>Observe as figuras que representam quadriláteros:</p><p class=\"ql-align-center\"><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/5032ca5b-6629-4499-bcec-f5ae01204344/cef92ddf-9da0-4df1-a9af-d64f075092fd/ed91ea31-81dc-412b-849f-e4827a8d546e.png\" style=\"\" width=\"745\"></p><p>É (são) paralelogramo(s) apenas a(s) figura(s)</p>",
+    "a": 1.1369,
+    "b": 1.0629,
+    "c": 0.181,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "1183719f-24ba-49ad-bc18-f58c963a6a5e",
+        "conteudo": "<p>I.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "fcafb33c-5cb1-4059-b4a3-ba6b0426330c",
+        "conteudo": "<p>I e IV.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "5b259045-54c7-4aa6-a253-7ee8c42c40dd",
+        "conteudo": "<p>II e III.</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "1444be92-b5c5-402a-a978-67feb2429ca1",
+        "conteudo": "<p>I, II, III e IV.</p>",
+        "ordem": 4,
+        "correta": true
+      }
+    ]
+  },
+  {
+    "id": "44a95591-bb63-4485-bdc8-e17f3eb4a116",
+    "codigo": "Q14_SAEB_SOMA_9ano_MT_2024",
+    "conteudo": "<p><span style=\"color: rgb(66, 66, 66);\">Em uma festa com 60 convidados, as lembrancinhas serão garrafas personalizadas, contendo 20 centilitros de refresco em cada uma. Esses refrescos estão armazenados em galões de 4 litros cada. </span></p><p><span style=\"color: rgb(66, 66, 66);\">Quantos galões serão necessários para garantir que todos os convidados recebam uma garrafa personalizada como lembrancinha?</span></p>",
+    "a": 1.124,
+    "b": 2.1658,
+    "c": 0.1677,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "43f09d24-451a-4e2c-a86d-16500658391e",
+        "conteudo": "<p>3</p>",
+        "ordem": 1,
+        "correta": true
+      },
+      {
+        "id": "b686d72e-12d5-4d9c-85bc-28173724bf26",
+        "conteudo": "<p>8</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "5c2c0355-e2e9-4626-8c46-aefbd99e9b55",
+        "conteudo": "<p>12</p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "2dd7d9ed-2444-40c6-be6d-78e524056b42",
+        "conteudo": "<p>30</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "92bab91d-40d7-4e04-b218-e2bb589d1e78",
+    "codigo": "Q26_SAEB_SOMA_9ano_MT_T1D9_2022",
+    "conteudo": "<p>Uma equipe que controla o tráfego de navios em determinada região do oceano utiliza o sistema de coordenadas cartesianas para representar a localização de uma boia em um ponto P:</p><p><br></p><p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/92bab91d-40d7-4e04-b218-e2bb589d1e78/593b82b1-e849-44af-8f61-8123fb71fb5a.png\"></p><p class=\"ql-align-right\"><br></p><p>Um navio situado exatamente na direção Noroeste da boia pode ser representado pelo ponto de coordenadas</p>",
+    "a": 1.396,
+    "b": 0.1781,
+    "c": 0.1879,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "ba3341bb-6f36-4b1a-a4cd-f1e408912f67",
+        "conteudo": "<p>(-4, 1).</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "cc069e64-dac1-4aa3-9d61-2b5b6ed4d6f0",
+        "conteudo": "<p>(-1, 5).</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "172941ce-6d1d-4794-85b5-634acbc4b142",
+        "conteudo": "<p>(-2, 2).</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "e0702aa9-36e6-4f1e-be75-2c718a11d5b5",
+        "conteudo": "<p>(3, -3).</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "ae907502-888f-4ccf-86be-e4cee669da18",
+    "codigo": "Q01_SAEBSOMA_2024_9EF_MT",
+    "conteudo": "<p>Um fotógrafo profissional fornece aos seus clientes um<em> pendrive </em>com capacidade de <span class=\"ql-formula\" data-value=\"1,6 \\times 10^{10}\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>1</mn><mo separator=\"true\">,</mo><mn>6</mn><mo>×</mo><mn>1</mn><msup><mn>0</mn><mn>10</mn></msup></mrow><annotation encoding=\"application/x-tex\">1,6 \\times 10^{10}</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.8389em; vertical-align: -0.1944em;\"></span><span class=\"mord\">1</span><span class=\"mpunct\">,</span><span class=\"mspace\" style=\"margin-right: 0.1667em;\"></span><span class=\"mord\">6</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\">10</span></span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> <em>bytes</em> contendo a versão digital de todas as fotos tiradas por ele.</p><p>Em média, as fotos deste profissional têm um tamanho de <span class=\"ql-formula\" data-value=\"4 \\times 10^7\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>4</mn><mo>×</mo><mn>1</mn><msup><mn>0</mn><mn>7</mn></msup></mrow><annotation encoding=\"application/x-tex\">4 \\times 10^7</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">4</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">7</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> <em>bytes</em>.</p><p><br></p><p>No total, quantas fotos com esse tamanho podem ser armazenadas neste <em>pendrive</em>?</p>",
+    "a": 1.6315,
+    "b": 1.2494,
+    "c": 0.1583,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "6e4b5da8-c94f-42e5-a879-71cfe79de771",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"4 \\times 10^1\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>4</mn><mo>×</mo><mn>1</mn><msup><mn>0</mn><mn>1</mn></msup></mrow><annotation encoding=\"application/x-tex\">4 \\times 10^1</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">4</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">1</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "51a5ca1f-3f97-4b5c-ae1c-df4bf84d2537",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"4 \\times 10^2\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>4</mn><mo>×</mo><mn>1</mn><msup><mn>0</mn><mn>2</mn></msup></mrow><annotation encoding=\"application/x-tex\">4 \\times 10^2</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">4</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 2,
+        "correta": true
+      },
+      {
+        "id": "ada0d36c-8ca1-4f3c-a73e-a57d835cb11e",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"4 \\times 10^3\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>4</mn><mo>×</mo><mn>1</mn><msup><mn>0</mn><mn>3</mn></msup></mrow><annotation encoding=\"application/x-tex\">4 \\times 10^3</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">4</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span> </p>",
+        "ordem": 3,
+        "correta": false
+      },
+      {
+        "id": "360c8d36-dcf9-47e1-9c2f-ccf31ae1335c",
+        "conteudo": "<p><span class=\"ql-formula\" data-value=\"4\\times 10^4\">﻿<span contenteditable=\"false\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>4</mn><mo>×</mo><mn>1</mn><msup><mn>0</mn><mn>4</mn></msup></mrow><annotation encoding=\"application/x-tex\">4\\times 10^4</annotation></semantics></math></span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"strut\" style=\"height: 0.7278em; vertical-align: -0.0833em;\"></span><span class=\"mord\">4</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span><span class=\"mbin\">×</span><span class=\"mspace\" style=\"margin-right: 0.2222em;\"></span></span><span class=\"base\"><span class=\"strut\" style=\"height: 0.8141em;\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"height: 0.8141em;\"><span class=\"\" style=\"top: -3.063em; margin-right: 0.05em;\"><span class=\"pstrut\" style=\"height: 2.7em;\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">4</span></span></span></span></span></span></span></span></span></span></span></span>﻿</span></p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  },
+  {
+    "id": "726ea9df-5b22-4d73-96fa-e94820844a14",
+    "codigo": "Q18_SAEB_SOMA_9ano_MT_T2D12_2022",
+    "conteudo": "<p>Um estacionamento será construído em um terreno com o formato e algumas das dimensões esquematizadas na figura.</p><p><br></p><p><img src=\"https://files.trieduconline.com.br/trieduc/smartprova/itens/7e1a922c-cfd8-4fa1-8cae-511328a5bca9/726ea9df-5b22-4d73-96fa-e94820844a14/2a132ba7-2079-47cf-a137-be9737252205.png\"></p><p>Esse terreno pode ser subdividido em uma região em forma de trapézio retângulo, que se destinará à parte aberta do estacionamento e terá área de 105 m², e uma região retangular, que se destinará à parte coberta do estacionamento.</p><p>O perímetro do terreno desse estacionamento é de</p>",
+    "a": 1.0873,
+    "b": 2.0657,
+    "c": 0.1797,
+    "textosBase": [],
+    "alternativas": [
+      {
+        "id": "444ad2e0-ae14-4a66-b86a-6c5cd304e10f",
+        "conteudo": "<p>53 m.</p>",
+        "ordem": 1,
+        "correta": false
+      },
+      {
+        "id": "a008e35a-5c61-440c-9d59-d353f8652e50",
+        "conteudo": "<p>64 m.</p>",
+        "ordem": 2,
+        "correta": false
+      },
+      {
+        "id": "a5583dc7-c70b-4151-a5c9-419ca1d8de2d",
+        "conteudo": "<p>68 m.</p>",
+        "ordem": 3,
+        "correta": true
+      },
+      {
+        "id": "ff196db3-d963-4564-aa5b-44953d62462a",
+        "conteudo": "<p>72 m.</p>",
+        "ordem": 4,
+        "correta": false
+      }
+    ]
+  }
+]

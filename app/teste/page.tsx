@@ -10,7 +10,6 @@ import { matchAnoInFilters, parseAno } from "@/lib/ano-escolar";
 import { QuestionCard } from "@/components/cat/question-card";
 import { ThetaChart } from "@/components/cat/theta-chart";
 import { formatSaeb } from "@/lib/saeb";
-import { Progress } from "@/components/ui/progress";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { Badge } from "@/components/ui/badge";
@@ -94,8 +93,6 @@ function TesteContent() {
   }
 
   // Em andamento - split view
-  const progress = ((session.step - 1) / session.totalSteps) * 100;
-
   return (
     <div className="min-h-svh">
       {/* Mobile: stacked / Desktop: split */}
@@ -111,61 +108,19 @@ function TesteContent() {
               </div>
             )}
 
-            {/* Progresso */}
-            <div className="space-y-2">
-              <div className="flex items-center justify-between text-[11px] text-muted-foreground">
-                <span className="font-medium uppercase tracking-wider">Progresso</span>
-                <span className="font-mono">{session.step} / {session.totalSteps}</span>
-              </div>
-              <Progress value={progress} className="h-1.5" />
-            </div>
-
             {/* Stats grid */}
             <div className="grid grid-cols-2 gap-2.5">
               <StatMini label="Proficiência" value={`${formatSaeb(session.theta)} pts`} />
               <StatMini label="Erro Padrão" value={session.se != null ? `±${Math.round(50 * session.se)} pts` : "—"} />
-              <StatMini label="Acertos" value={`${correctCount}`} />
-              <StatMini label="Respondidas" value={`${session.step - 1}`} />
             </div>
 
             {/* Grafico */}
             {history.length > 0 && (
               <div className="space-y-2">
-                <div className="flex items-center justify-between">
-                  <h2 className="text-xs font-semibold">Evolução</h2>
-                  <div className="flex items-center gap-2.5 text-[10px] text-muted-foreground">
-                    <span className="flex items-center gap-1">
-                      <span className="inline-block h-1.5 w-1.5 rounded-full bg-emerald-500" />
-                      Acerto
-                    </span>
-                    <span className="flex items-center gap-1">
-                      <span className="inline-block h-1.5 w-1.5 rounded-full bg-red-500" />
-                      Erro
-                    </span>
-                  </div>
-                </div>
+                <h2 className="text-xs font-semibold">Evolução</h2>
                 <div className="rounded-xl border border-border/60 bg-card p-2.5">
                   <ThetaChart history={history} currentTheta={session.theta} />
                 </div>
-              </div>
-            )}
-
-            {/* Histórico compacto */}
-            {history.length > 0 && (
-              <div className="flex flex-wrap gap-1">
-                {history.map((h, i) => (
-                  <div
-                    key={i}
-                    className={`w-7 h-7 rounded-md text-[11px] flex items-center justify-center font-medium ${
-                      h.correct
-                        ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300"
-                        : "bg-red-100 text-red-700 dark:bg-red-900/40 dark:text-red-300"
-                    }`}
-                    title={`Questão ${h.step}: ${formatSaeb(h.theta)} pts`}
-                  >
-                    {h.step}
-                  </div>
-                ))}
               </div>
             )}
           </div>
@@ -339,8 +294,10 @@ function SelectionScreen() {
 
   const disciplinasDisponiveis = useMemo(() => {
     if (!filters) return [];
-    if (!anoDetectado) return filters;
-    return filters.filter((f) => f.anos.includes(anoDetectado));
+    const allowed = new Set(["Língua Portuguesa", "Matemática"]);
+    const onlyAllowed = filters.filter((f) => allowed.has(f.disciplina));
+    if (!anoDetectado) return onlyAllowed;
+    return onlyAllowed.filter((f) => f.anos.includes(anoDetectado));
   }, [filters, anoDetectado]);
 
   const canStart = selectedDisciplina && selectedAno;
@@ -406,14 +363,13 @@ function SelectionScreen() {
                       setSelectedDisciplina(selectedDisciplina === f.disciplina ? null : f.disciplina);
                       if (!anoDetectado) setSelectedAno(null);
                     }}
-                    className={`flex items-center justify-between rounded-xl border p-3 text-left transition-all duration-150 cursor-pointer ${
+                    className={`rounded-xl border p-3 text-left transition-all duration-150 cursor-pointer ${
                       selectedDisciplina === f.disciplina
                         ? "border-primary bg-primary/5 ring-1 ring-primary/20"
                         : "border-border/60 hover:border-border hover:bg-muted/40"
                     }`}
                   >
                     <span className="text-sm font-medium">{f.disciplina}</span>
-                    <Badge variant="secondary" className="text-[10px] px-1.5 py-0 font-mono">{f.total}</Badge>
                   </button>
                 ))}
                 {disciplinasDisponiveis.length === 0 && (
