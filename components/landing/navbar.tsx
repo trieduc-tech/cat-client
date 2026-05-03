@@ -102,6 +102,13 @@ export function Navbar() {
                     >
                       Iniciar Teste
                     </Link>
+                    <Link
+                      href="/gestor"
+                      onClick={() => setMenuOpen(false)}
+                      className="block rounded-md px-2.5 py-1.5 text-xs hover:bg-muted transition-colors"
+                    >
+                      Área do Gestor
+                    </Link>
                     <button
                       type="button"
                       onClick={handleLogout}
