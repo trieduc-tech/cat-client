@@ -66,10 +66,9 @@ export default function GestorHomePage() {
   return (
     <div className="space-y-8">
       <SectionHeader
-        eyebrow="Dados chamativos"
         title={
           <>
-            Visão geral <span className="text-primary">do CAT</span>
+            Visão geral do <span className="text-primary">CAT</span>
           </>
         }
         description="Panorama dos alunos avaliados — proficiência, participação e distribuição por nível em cada disciplina."
