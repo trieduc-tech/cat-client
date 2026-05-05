@@ -120,21 +120,37 @@ export function ThetaChart({
           fill="url(#thetaGrad)"
           type="monotone"
           dot={(props: any) => {
-            const { cx, cy, index } = props;
+            const { cx, cy, index, payload } = props;
             if (cx == null || cy == null) return <></>;
+            const color = payload?.correct ? "#10b981" : "#ef4444";
             return (
               <circle
                 key={index}
                 cx={cx}
                 cy={cy}
                 r={4}
-                fill="var(--color-chart-1)"
+                fill={color}
                 stroke="var(--color-background)"
                 strokeWidth={2}
               />
             );
           }}
-          activeDot={{ r: 5, strokeWidth: 2 }}
+          activeDot={(props: any) => {
+            const { cx, cy, index, payload } = props;
+            if (cx == null || cy == null) return <></>;
+            const color = payload?.correct ? "#10b981" : "#ef4444";
+            return (
+              <circle
+                key={index}
+                cx={cx}
+                cy={cy}
+                r={5}
+                fill={color}
+                stroke="var(--color-background)"
+                strokeWidth={2}
+              />
+            );
+          }}
         />
       </AreaChart>
     </ChartContainer>

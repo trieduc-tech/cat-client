@@ -72,54 +72,61 @@ export function Navbar() {
           {!isHydrated ? (
             <div className="h-8 w-20 rounded-lg bg-muted/60 animate-pulse" />
           ) : isAuthenticated ? (
-            <div ref={menuRef} className="relative">
-              <button
-                type="button"
-                onClick={() => setMenuOpen((v) => !v)}
-                aria-expanded={menuOpen}
-                className="flex items-center gap-2 rounded-lg border border-border/60 bg-card px-2 py-1 hover:border-border hover:bg-muted/40 transition-colors"
+            <>
+              <Button
+                asChild
+                variant="ghost"
+                size="sm"
+                className="rounded-lg h-8 px-2.5 sm:px-3 text-xs font-medium"
               >
-                <span className="flex h-6 w-6 items-center justify-center rounded-md bg-primary/10 text-[10px] font-semibold text-primary">
-                  {initials}
-                </span>
-                <span className="hidden sm:inline text-xs font-medium max-w-[140px] truncate">
-                  {user?.nome ?? "Conta"}
-                </span>
-              </button>
-              {menuOpen && (
-                <div className="absolute right-0 mt-2 w-56 rounded-xl border border-border/60 bg-popover shadow-lg animate-in fade-in slide-in-from-top-1 duration-150">
-                  <div className="px-3 py-2.5 border-b border-border/60">
-                    <p className="text-xs font-medium truncate">{user?.nome}</p>
-                    <p className="text-[11px] text-muted-foreground truncate">
-                      {user?.email}
-                    </p>
+                <Link href="/gestor">
+                  <span className="sm:hidden">Gestor</span>
+                  <span className="hidden sm:inline">Área do Gestor</span>
+                </Link>
+              </Button>
+              <Button
+                asChild
+                size="sm"
+                className="rounded-lg h-8 px-2.5 sm:px-4 text-xs font-medium"
+              >
+                <Link href="/teste">
+                  <span className="sm:hidden">Teste</span>
+                  <span className="hidden sm:inline">Iniciar Teste</span>
+                </Link>
+              </Button>
+              <div ref={menuRef} className="relative">
+                <button
+                  type="button"
+                  onClick={() => setMenuOpen((v) => !v)}
+                  aria-expanded={menuOpen}
+                  aria-label="Menu da conta"
+                  className="flex h-8 w-8 items-center justify-center rounded-lg border border-border/60 bg-card hover:border-border hover:bg-muted/40 transition-colors"
+                >
+                  <span className="text-[10px] font-semibold text-primary">
+                    {initials}
+                  </span>
+                </button>
+                {menuOpen && (
+                  <div className="absolute right-0 mt-2 w-56 rounded-xl border border-border/60 bg-popover shadow-lg animate-in fade-in slide-in-from-top-1 duration-150">
+                    <div className="px-3 py-2.5 border-b border-border/60">
+                      <p className="text-xs font-medium truncate">{user?.nome}</p>
+                      <p className="text-[11px] text-muted-foreground truncate">
+                        {user?.email}
+                      </p>
+                    </div>
+                    <div className="p-1">
+                      <button
+                        type="button"
+                        onClick={handleLogout}
+                        className="w-full text-left rounded-md px-2.5 py-1.5 text-xs text-destructive hover:bg-destructive/10 transition-colors"
+                      >
+                        Sair
+                      </button>
+                    </div>
                   </div>
-                  <div className="p-1">
-                    <Link
-                      href="/teste"
-                      onClick={() => setMenuOpen(false)}
-                      className="block rounded-md px-2.5 py-1.5 text-xs hover:bg-muted transition-colors"
-                    >
-                      Iniciar Teste
-                    </Link>
-                    <Link
-                      href="/gestor"
-                      onClick={() => setMenuOpen(false)}
-                      className="block rounded-md px-2.5 py-1.5 text-xs hover:bg-muted transition-colors"
-                    >
-                      Área do Gestor
-                    </Link>
-                    <button
-                      type="button"
-                      onClick={handleLogout}
-                      className="w-full text-left rounded-md px-2.5 py-1.5 text-xs text-destructive hover:bg-destructive/10 transition-colors"
-                    >
-                      Sair
-                    </button>
-                  </div>
-                </div>
-              )}
-            </div>
+                )}
+              </div>
+            </>
           ) : (
             <>
               <Button

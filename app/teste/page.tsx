@@ -124,7 +124,7 @@ function TesteContent() {
 
             {/* Grafico */}
             {history.length > 0 && (
-              <div className="space-y-2">
+              <div className="hidden sm:block space-y-2">
                 <h2 className="text-xs font-semibold">Evolução</h2>
                 <div className="rounded-xl border border-border/60 bg-card p-2.5">
                   <ThetaChart history={history} currentTheta={session.theta} showSE={false} />
@@ -182,15 +182,14 @@ function CompletedView({
         </div>
 
         {/* Stats */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
           <StatCard label="Proficiência" value={`${formatSaeb(session.theta)} pts`} />
-          <StatCard label="Erro Padrão" value={session.se != null ? `±${Math.round(50 * session.se)} pts` : "—"} />
           <StatCard label="Acertos" value={`${correctCount} / ${session.step}`} />
           <StatCard label="Taxa" value={`${session.step > 0 ? Math.round((correctCount / session.step) * 100) : 0}%`} />
         </div>
 
         {/* Grafico */}
-        <div className="space-y-3">
+        <div className="hidden sm:block space-y-3">
           <div className="flex items-center justify-between">
             <h2 className="text-sm font-semibold">Evolução</h2>
             <div className="flex items-center gap-3 text-[11px] text-muted-foreground">
