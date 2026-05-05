@@ -67,7 +67,7 @@ function TesteContent() {
   // Loading
   if (!session) {
     return (
-      <div className="flex min-h-svh items-center justify-center px-4">
+      <div className="flex min-h-svh items-center justify-center px-5 sm:px-6">
         {error ? (
           <div className="text-center space-y-4">
             <p className="text-sm text-destructive">{error}</p>
@@ -98,28 +98,36 @@ function TesteContent() {
       {/* Mobile: stacked / Desktop: split */}
       <div className="lg:flex lg:h-svh">
         {/* Painel esquerdo - stats e gráfico (sticky no desktop) */}
-        <aside className="border-b border-border/60 bg-muted/20 px-4 py-5 lg:w-[400px] xl:w-[440px] lg:border-b-0 lg:border-r lg:overflow-y-auto lg:shrink-0 lg:py-8 lg:px-6">
+        <aside className="border-b border-border/60 bg-muted/20 px-5 py-5 sm:px-6 lg:w-[400px] xl:w-[440px] lg:border-b-0 lg:border-r lg:overflow-y-auto lg:shrink-0 lg:py-8 lg:px-7">
           <div className="mx-auto max-w-2xl lg:max-w-none space-y-5">
-            {/* Contexto */}
-            {(disciplina || anoEscolar) && (
-              <div className="flex flex-wrap gap-1.5">
-                {disciplina && <Badge variant="secondary" className="text-[11px]">{disciplina}</Badge>}
-                {anoEscolar && <Badge variant="secondary" className="text-[11px]">{anoEscolar}</Badge>}
-              </div>
-            )}
-
-            {/* Stats grid */}
-            <div className="grid grid-cols-2 gap-2.5">
-              <StatMini label="Proficiência" value={`${formatSaeb(session.theta)} pts`} />
-              <StatMini label="Erro Padrão" value={session.se != null ? `±${Math.round(50 * session.se)} pts` : "—"} />
+            {/* Header: Sair + contexto */}
+            <div className="flex items-center justify-between gap-3">
+              <Button
+                type="button"
+                onClick={() => router.push("/")}
+                variant="ghost"
+                size="sm"
+                className="-ml-2 h-8 px-2 text-xs text-muted-foreground hover:text-foreground rounded-lg"
+              >
+                ← Sair
+              </Button>
+              {(disciplina || anoEscolar) && (
+                <div className="flex flex-wrap justify-end gap-1.5">
+                  {disciplina && <Badge variant="secondary" className="text-[11px]">{disciplina}</Badge>}
+                  {anoEscolar && <Badge variant="secondary" className="text-[11px]">{anoEscolar}</Badge>}
+                </div>
+              )}
             </div>
+
+            {/* Stats */}
+            <StatMini label="Proficiência" value={`${formatSaeb(session.theta)} pts`} />
 
             {/* Grafico */}
             {history.length > 0 && (
               <div className="space-y-2">
                 <h2 className="text-xs font-semibold">Evolução</h2>
                 <div className="rounded-xl border border-border/60 bg-card p-2.5">
-                  <ThetaChart history={history} currentTheta={session.theta} />
+                  <ThetaChart history={history} currentTheta={session.theta} showSE={false} />
                 </div>
               </div>
             )}
@@ -127,7 +135,7 @@ function TesteContent() {
         </aside>
 
         {/* Painel direito - questão (rolável) */}
-        <main className="flex-1 overflow-y-auto px-4 py-5 lg:py-8 lg:px-8 xl:px-12">
+        <main className="flex-1 overflow-y-auto px-5 py-5 sm:px-6 lg:py-8 lg:px-8 xl:px-12">
           <div className="mx-auto max-w-2xl lg:max-w-xl">
             {session.item && (
               <QuestionCard
@@ -160,7 +168,7 @@ function CompletedView({
   router: ReturnType<typeof useRouter>;
 }) {
   return (
-    <div className="min-h-svh px-4 py-8 md:py-12">
+    <div className="min-h-svh px-5 py-8 sm:px-6 md:py-12">
       <div className="mx-auto max-w-xl space-y-8">
         {/* Header */}
         <div className="text-center space-y-2">
@@ -315,7 +323,7 @@ function SelectionScreen() {
   };
 
   return (
-    <div className="flex min-h-svh flex-col items-center justify-center px-4 py-12">
+    <div className="flex min-h-svh flex-col items-center justify-center px-5 py-12 sm:px-6">
       <div className="w-full max-w-lg space-y-8">
         <div className="text-center space-y-3">
           <h1 className="text-2xl font-bold tracking-tight">Iniciar Teste</h1>
