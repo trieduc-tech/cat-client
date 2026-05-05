@@ -31,24 +31,20 @@ export function Hero() {
 
             <FadeIn delay={0.1}>
               <h1
-                className="font-display tracking-[-0.03em] leading-[1.1]"
-                style={{ fontSize: "clamp(2.2rem, 5vw, 3.8rem)" }}
+                className="font-display tracking-[-0.04em] leading-[0.95]"
+                style={{ fontSize: "clamp(4rem, 13vw, 9rem)" }}
               >
-                Medir proficiência com{" "}
-                <span className="text-primary">precisão</span>,{" "}
-                <br className="hidden sm:block" />
-                usando menos{" "}
-                <span className="font-display italic text-muted-foreground/60">
-                  questões
-                </span>
+                <span className="text-primary">CAT</span>
               </h1>
+              <p className="mt-3 text-xs sm:text-sm font-semibold uppercase tracking-[0.22em] text-muted-foreground">
+                Teste Adaptativo Computadorizado
+              </p>
             </FadeIn>
 
             <FadeIn delay={0.2}>
-              <p className="mt-5 text-base sm:text-lg text-muted-foreground leading-relaxed max-w-lg">
-                Teste Adaptativo Computadorizado baseado no modelo 3PL da Teoria
-                de Resposta ao Item. Cada questão é selecionada em tempo real
-                para maximizar a informação sobre o aluno.
+              <p className="mt-6 text-base sm:text-lg text-muted-foreground leading-relaxed max-w-lg">
+                Cada questão se adapta ao aluno em tempo real. Avaliação
+                precisa em uma fração das questões.
               </p>
             </FadeIn>
 

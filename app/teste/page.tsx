@@ -53,7 +53,7 @@ function TesteContent() {
       startSession({
         disciplina: disciplina ?? undefined,
         anoEscolar: anoEscolar ?? undefined,
-        maxItems: 20,
+        maxItems: 10,
         seThreshold: 0.3,
       });
     }
