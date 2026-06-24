@@ -6,7 +6,7 @@ import type {
   SessionResponse,
 } from "@/lib/types";
 
-const API_URL = process.env.NEXT_PUBLIC_CAT_API_URL || "http://localhost:8000";
+const API_URL = "https://trieduc-prd-alb-1277017021.us-east-1.elb.amazonaws.com";
 
 export class ApiError extends Error {
   status: number;
